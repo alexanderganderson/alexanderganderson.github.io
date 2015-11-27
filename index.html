@@ -2,22 +2,50 @@
 layout: default
 ---
 
-<div class="home">
+<table border="0">
+  <tr>
+    <td>
+      <center><h2>
+	Alex Anderson
+      </h2></center>
+<p>
+Hello everybody, my name is Alex and I am a Ph.D. Candidate at 
+UC Berkeley working with
+<a href='http://http://redwood.berkeley.edu/bruno/' target='_blank'>
+Bruno Olshausen</a> 
+in the 
+<a href='http://redwood.berkeley.edu/' target='_blank'>
+Redwood Center </a>. I am funded through the 
+<a href='http://www.nsfgrfp.org' target='_blank'> NSF GRFP </a> and a research grant. 
+I use ideas from machine learning to understand the brain, with a focus on vision. 
+</p>
+In the past, I graduated summa cum laude at Washington University in 
+St. Louis with a double major in math and physics. 
+I did my undergraduate thesis with
+<a href='http://physics.wustl.edu/cmb/' target='_blank'> Carl Bender</a>. 
+Before that, I enjoyed Euclidean geometry and  in high school math competitions. 
+    </td>
+    <td>
+      <img src="{{ site.baseurl }}static/img/face.png" width="800px" height="auto">
+    </td>
+</tr>
+</table>
 
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
+<h2> Projects </h2>
+<table border="0">
+<ul>
+{% for pr in site.data.projects %}
+  <tr>
+  <td>
+  <img src="{{ site.baseurl }}{{pr.img}}" width="200px" height="auto">
+  </td>
+  <td>
+    <div>{{pr.type}}:</div>
+    <div><b>{{pr.title}}</b> </div>
+    <div><i>{{pr.authors}}</i> {{pr.location}} ({{pr.date}})</div>
+    {{pr.desc}}
+  </td>
+  </tr>
+{% endfor%}
+</ul>
+</table>
