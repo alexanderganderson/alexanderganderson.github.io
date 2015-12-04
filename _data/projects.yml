@@ -21,6 +21,7 @@
   date: July, 2015
   desc: Co-wrote code and led a tutorial on Sparse Coding for incoming Berkeley Neuroscience students. 
   img: static/img/mnist_sparse.png
+  link: <a href='https://github.com/rctn/RCTN-neuro-bootcamp'>Link</a>
 
 - type: Class Project
   title: Analyzing the Internal Dynamics of a LSTM Trained to Solve the Reber Grammar
@@ -68,6 +69,7 @@
   date: 2013
   desc: A proof-based round for a high school math contest about an important mathematical tool used in quantum mechanics. 
   img: static/img/commutator.png
+  link: <a href='http://bmt.berkeley.edu/static/documents/oldtests/PowS2013.pdf'>Problems</a> |  <a href='http://bmt.berkeley.edu/static/documents/oldtests/PowS2013S.pdf'>Solutions</a>
  
 - type: Curriculum Design
   title: AwesomeMath Summer Course in Intermediate Geometry
