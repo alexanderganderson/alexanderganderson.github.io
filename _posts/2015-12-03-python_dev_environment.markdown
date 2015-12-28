@@ -14,7 +14,7 @@ The main commands that I have found to be useful are `ls, cd, clear, mv`. Also i
 
 # Python Installation
 
-The easiest method to install python is to use anaconda python installation.
+The easiest method to install python is to use anaconda python distribution.
 See here for more details [anaconda]. 
 
 # Git

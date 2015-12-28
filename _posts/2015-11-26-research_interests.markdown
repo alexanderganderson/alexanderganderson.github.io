@@ -9,7 +9,9 @@ categories: research
   Current Research Interests
 </h2>
 
-After establishing myself in the Redwood center for theoretical neuroscience, I have come to enjoy a number of general research areas and techniques. Here is a outline of the concepts that currently inform what I am thinking about:
+After establishing myself in the Redwood center for theoretical neuroscience, 
+I have come to enjoy a number of general research areas and techniques. Here 
+is a outline of the concepts that currently inform my research:
 
 <h3> Statistics and Machine Learning: </h3>
 Bayesian Models, Graphical Modeling, Hidden Markov Models, GLM Modeling, Sampling Algorithms (eg. Particle Filtering, MCMC, HMC, Gibbs Sampling), Information theory, Rate-Distortion Theory, Maximum Entropy Models, Optimization Methods (eg. Improving on Gradient Descent)

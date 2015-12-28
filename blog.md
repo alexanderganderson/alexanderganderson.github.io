@@ -4,13 +4,10 @@ title: Blog
 permalink: /blog/
 ---
 
-Blog Under Construction
+Welcome to the blog part of my website. My blog will contain various
+pieces of useful information related to my research and general interests. 
 
 <div class="home">
-
-  <h2 class="page-heading">
-    Posts
-  </h2>
 
   <ul class="post-list">
     {% for post in site.posts %}

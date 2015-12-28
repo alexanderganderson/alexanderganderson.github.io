@@ -6,26 +6,27 @@ categories: code
 ---
 
 The goal of this post is to summarize how I got started using jekyll for static website creation. 
-
-The reason for using Jekyll is that it creates an easy to maintain 
-static website that can be hosted on github. That way, you don't need to 
-constantly worry about updating your website. 
+Jekyll hosted through github allows you to make a nice looking website
+that is easy to maintain. 
 
 
 # Installation
 
-As a first step, go to [jekyll-quickstart]. Here, you create a jekyll directory.
-
-Roughly, the steps are:
-
-Install jekyll and specifically github-pages by running 
+As a first step, go to [jekyll-quickstart]. Begin by installing the github version of jekyll by running:
 
 `gem install github-pages`
 
+This installs the version of jekyll used by github to build your website. 
+
 # Creating your first page
 
-Create a directory for your website on your computer. 
-You can do this by forking an existing jekyll template (try looking for one on google). 
+Create a directory for your website on your computer. The quickstart guide suggests
+running the code `jekyll new myblog` to generate a site template in the directory
+`myblog`. After looking at that, the best way to get going quickly is to clone an 
+existing jekyll template (eg. look here: [jekyll-themes]) and modify the template
+to your needs.
+
+# Viewing changes to your page 
 
 You can check the website by going into the directory and typing
 `jekyll serve`
@@ -35,9 +36,8 @@ This hosts the website on your computer and allows you to repeatedly modify your
 # Notes
 
 
-
-Note that jekyll build creates a directory _site that takes all of the pages that you've written in markdown and generates the actual html.
-You don't need to do this for github, as it builds your site (and you want your .gitignore to have the _site folder). 
+Note that jekyll build creates a directory `_site` that takes all of the pages that you've written in markdown and generates the actual html.
+You don't need to do this for github, as it builds your site (and you want your .gitignore to have the `_site` folder). 
 
 # Hosting
 
@@ -55,3 +55,4 @@ a good looking table.
 
 [jekyll-quickstart]: http://jekyllrb.com/docs/quickstart/
 [github-pages]: https://pages.github.com/
+[jekyll-themes]: http://jekyllthemes.org/
