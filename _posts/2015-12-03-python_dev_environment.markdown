@@ -84,10 +84,10 @@ Then start an ipython notebook looking at that port on your computer:
 When you log out of a remote machine, it can end your session. The tool that
 I currently use is screen. The idea is that I can open up a session of
 screen, run my code from there, log out, come back, and my script is still
-running. 
+running. See [screen-basics] for more information.  
 
 [anaconda]: http://docs.continuum.io/anaconda/install
 [git-handbook]: https://git-scm.com/book/en/v2
 [st3-config]: https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/
 [ssh-gen]: https://help.github.com/articles/generating-ssh-keys/
- 
+[screen-basics]: http://aperiodic.net/screen/quick_reference 
