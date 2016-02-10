@@ -9,13 +9,17 @@ Note that I do my coding on an OSX based machine.
 
 # Terminal
 
-For most coding purposes, it is important to get comfortable with the terminal.
-The main commands that I have found to be useful are `ls, cd, clear, mv`. Also it is important to understand the way files are structured and what is in your `~/.bash_profile`. Googling these things will give the answers. 
+In many situations, it is important to get comfortable with the terminal.
+The main commands that I have found to be useful are `ls, cd, clear, mv`. Also it is important to understand the way files are structured and what is in your `~/.bash_profile`. I found [linux-tutorial] to be useful (both the website and the book). 
 
 # Python Installation
 
 The easiest method to install python is to use anaconda python distribution.
-See here for more details [anaconda]. 
+See here for more details [anaconda]. Type `which python` to give the python installation your terminal is using when you type `python`. 
+
+# IPython Notebook
+
+When experimenting with code, I often find it to be very helpful to use ipython notebook in order to build up my code. I can quickly make changes and view their impact. More can be found on the ipython notebook homepage. 
 
 # Git
 
@@ -23,6 +27,10 @@ One of the most important things to do when programming is to manage
 the versions of your files carefully. I strongly recommend making a 
 github account, and reading the first two chapters of [git-handbook] to 
 understand how it works.
+
+# Git on a remote computer
+
+Suppose that you are working on code on a remote computer and you want to manage versions of the code. You can use git to do this. However, if you have a hidden repository, you will need to repeatedly type in your username and password using the default https method for git. Instead, you can follow the tutorials to add a ssh key to your git account. Then you add that ssh key to the remote computer. See [git-ssh].
 
 # Basic Text Editors
 
@@ -91,3 +99,5 @@ running. See [screen-basics] for more information.
 [st3-config]: https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/
 [ssh-gen]: https://help.github.com/articles/generating-ssh-keys/
 [screen-basics]: http://aperiodic.net/screen/quick_reference 
+[linux-tutorial]: http://linuxcommand.org/lc3_learning_the_shell.php
+[git-ssh]: https://help.github.com/articles/generating-an-ssh-key/
