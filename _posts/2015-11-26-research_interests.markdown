@@ -9,18 +9,18 @@ categories: research
   Current Research Interests
 </h2>
 
-After establishing myself in the Redwood center for theoretical neuroscience, 
-I have come to enjoy a number of general research areas and techniques. Here 
+After establishing myself in the Redwood center for theoretical neuroscience,
+I have come to enjoy a number of general research areas and techniques. Here
 is a outline of the concepts that currently inform my research:
 
 <h3> Statistics and Machine Learning: </h3>
 Bayesian Models, Graphical Modeling, Hidden Markov Models, GLM Modeling, Sampling Algorithms (eg. Particle Filtering, MCMC, HMC, Gibbs Sampling), Information theory, Rate-Distortion Theory, Maximum Entropy Models, Optimization Methods (eg. Improving on Gradient Descent)
 
 <h3> Deep Learning </h3>
-Back Propagation (including Automatic Differentiation), Convolutional Networks, Recurrent Networks, LSTMs, Energy Models (including contrastive divergence, Minimum Probability Flow, Ising Models, RBMs), Neural Network Art, Deep Reinforcement Learning, Diffusion Probabilistic Models 
+Back Propagation (including Automatic Differentiation), Convolutional Networks, Recurrent Networks, LSTMs, Energy Models (including contrastive divergence, Minimum Probability Flow, Ising Models, RBMs), Neural Network Art, Deep Reinforcement Learning, Diffusion Probabilistic Models
 
 <h3> Vision </h3>
-Retina, LGN, Visual Cortex, Fixational Eye Movements, Scanning Laser Opthalmoscopy(SP??), Models of Feedback
+Retina, LGN, Visual Cortex, Fixational Eye Movements, Scanning Laser Ophthalmoscopy, Models of Feedback
 
 <h3> Computational Neuroscience </h3>
 Redundancy Reduction, Efficient Coding, Sparse Coding (and variants, such as Locally Competitive Algorithm, SAILnet), Natural Scene Statistics, GLM Models of Early Visual Processing, Hierarchical Models, Models of Feedback, Hopfield Networks
