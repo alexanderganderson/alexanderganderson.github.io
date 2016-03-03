@@ -1,3 +1,11 @@
+- type: Conference Poster
+  title: Modeling High Acuity Vision in the Presence of Fixational Eye Movements
+  authors: Alexander G. Anderson, Bruno Olshausen
+  location: COSYNE
+  date: 2016
+  desc: Poster at Main Conference for Computational Neuroscience
+  img: static/img/cosyne_poster.png
+
 - type: Conference Presentation
   title: High Acuity Vision in the Presence of Fixational Eye Movements
   authors: Alexander G. Anderson, Bruno Olshausen
