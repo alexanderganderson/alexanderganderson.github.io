@@ -1,3 +1,11 @@
+- type: Personal Project
+  title: Artistic Style Transfer in TensorFlow
+  autors: Alexander G. Anderson
+  location: Berkeley
+  date: 2016
+  desc: Implementation of Artistic Style Transfer in TensorFlow
+  img: static/img/desert_face.jpg
+
 - type: Conference Poster
   title: Modeling High Acuity Vision in the Presence of Fixational Eye Movements
   authors: Alexander G. Anderson, Bruno Olshausen
