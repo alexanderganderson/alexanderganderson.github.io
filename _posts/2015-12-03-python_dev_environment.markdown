@@ -12,6 +12,10 @@ Note that I do my coding on an OSX based machine.
 In many situations, it is important to get comfortable with the terminal.
 The main commands that I have found to be useful are `ls, cd, clear, mv`. Also it is important to understand the way files are structured and what is in your `~/.bash_profile`. I found [linux-tutorial] to be useful (both the website and the book). 
 
+Additionally, I have found it to be useful to use zsh (see [oh-my-zsh] for more information). The most useful feature of this terminal is that tab complete is not case-sensitive. It is relatively easy to install on other computers as well. 
+
+One more advanced feature that you can do is to define aliases for terminal for commands that you type frequently. An easy way to see what aliases you should define is to look at your terminal history. 
+
 # Python Installation
 
 The easiest method to install python is to use anaconda python distribution.
@@ -101,3 +105,4 @@ running. See [screen-basics] for more information.
 [screen-basics]: http://aperiodic.net/screen/quick_reference 
 [linux-tutorial]: http://linuxcommand.org/lc3_learning_the_shell.php
 [git-ssh]: https://help.github.com/articles/generating-an-ssh-key/
+[oh-my-zsh]: https://github.com/robbyrussell/oh-my-zsh
