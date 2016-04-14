@@ -25,6 +25,13 @@ See here for more details [anaconda]. Type `which python` to give the python ins
 
 When experimenting with code, I often find it to be very helpful to use ipython notebook in order to build up my code. I can quickly make changes and view their impact. More can be found on the ipython notebook homepage. 
 
+# Debugging using pdb
+
+While many bugs can be eliminated using good software engineering practices, errors still arise. One extremely useful tool to debug is called pdb. Essentially, you insert a line into your code and then your code will break into an interpreter that allows you to inspect all the different variables in your code. While there are multiple ways to invoke the debugger, the simplest is to simply add this line to your code where you want to break:
+
+`import pdb; pdb.set_trace()`
+
+For more details see [pdb-tutorial]. 
 # Git
 
 One of the most important things to do when programming is to manage 
@@ -106,3 +113,4 @@ running. See [screen-basics] for more information.
 [linux-tutorial]: http://linuxcommand.org/lc3_learning_the_shell.php
 [git-ssh]: https://help.github.com/articles/generating-an-ssh-key/
 [oh-my-zsh]: https://github.com/robbyrussell/oh-my-zsh
+[pdb-tutorial]: https://pymotw.com/2/pdb/
