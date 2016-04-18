@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-Welcome to my blog! My blog will contain posts on a variety of useful topics related to my research and general interests. 
+Welcome to my blog!
 
 <div class="home">
 
