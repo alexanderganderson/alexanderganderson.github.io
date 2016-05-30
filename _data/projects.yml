@@ -1,6 +1,15 @@
+- type: Technical Report/Class Project
+  title: DeepMovie   Using Optical Flow and Deep Neural Networks to Stylize Movies
+  authors: Alexander G. Andrson, Cory P. Berg, Daniel P. Mossing, Bruno A. Olshausen
+  location: Berkeley
+  date: May 2016
+  desc: Style Transfer for Movies. See the Video for a clip of Star Wars in the Art Style of Vincent Van Gogh
+  img: static/img/movie_style.png
+  link: <a href='https://arxiv.org/abs/1605.08153'>Paper</a> . <a href='https://youtu.be/nOrXeFBkP04'>Video</a>
+
 - type: Personal Project
   title: Artistic Style Transfer in TensorFlow
-  autors: Alexander G. Anderson
+  authors: Alexander G. Anderson
   location: Berkeley
   date: 2016
   desc: Implementation of Artistic Style Transfer in TensorFlow
