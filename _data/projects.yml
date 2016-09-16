@@ -1,6 +1,15 @@
+- type: Journal Article
+  title: Excess of mutational jackpot events in growing populations due to gene surfing
+  authors: Diana Fusco, Matti Gralka, Alex Anderson, Jona Kayser, Oskar Hallatschek
+  location: Nature Communications (accepted)
+  date: June 2016
+  desc: Mutations propagate differently throughout a population depending on the spatial structure of the habitat.
+  img: static/img/mix_vs_colony.png
+  link: <a href='http://biorxiv.org/content/early/2016/05/16/053405'>Preprint</a>
+
 - type: Technical Report/Class Project
   title: DeepMovie   Using Optical Flow and Deep Neural Networks to Stylize Movies
-  authors: Alexander G. Andrson, Cory P. Berg, Daniel P. Mossing, Bruno A. Olshausen
+  authors: Alexander G. Anderson, Cory P. Berg, Daniel P. Mossing, Bruno A. Olshausen
   location: Berkeley
   date: May 2016
   desc: Style Transfer for Movies. See the Video for a clip of Star Wars in the Art Style of Vincent Van Gogh
@@ -29,7 +38,7 @@
   authors: Alexander G. Anderson, Bruno Olshausen
   location: UC Berkeley Neuroscience Conference
   date: 2015
-  desc: Presentation on main research 
+  desc: Presentation on main research
   img: static/img/reconstruct_sparse.png
 
 - type: Conference Poster
@@ -45,7 +54,7 @@
   authors: Alexander G. Anderson, Jesse Livezey, Guy Isley, Charles Frye
   location: Redwood Center for Theoretical Neuroscience
   date: July, 2015
-  desc: Co-wrote code and led a tutorial on Sparse Coding for incoming Berkeley Neuroscience students. 
+  desc: Co-wrote code and led a tutorial on Sparse Coding for incoming Berkeley Neuroscience students.
   img: static/img/mnist_sparse.png
   link: <a href='https://github.com/rctn/RCTN-neuro-bootcamp'>Link</a>
 
@@ -54,14 +63,14 @@
   authors: Alexander G. Anderson
   location: Redwood Center for Theoretical Neuroscience
   date: 2014
-  desc: Implemented a LSTM in theano and analyzed the hidden dynamics that give rise to the solution of the Reber Grammar problem. 
+  desc: Implemented a LSTM in theano and analyzed the hidden dynamics that give rise to the solution of the Reber Grammar problem.
   img: static/img/lstm.png
 
 - type: Class Project
   title: Parameter Sensitivity for MIRT Models
   authors: Alexander G. Anderson, Eliana Feasley
   date: 2014
-  desc: Final project for a class on graphical modeling. Understood and modified a codebase that used EM (expectation-maximization) to predict student performance on math questions. 
+  desc: Final project for a class on graphical modeling. Understood and modified a codebase that used EM (expectation-maximization) to predict student performance on math questions.
   img: static/img/khan.png
 
 - type: Graduate Research Rotation Project
@@ -69,7 +78,7 @@
   authors: Alexander G. Anderson, Matti Gralka, Oskar Hallatschek
   location: University of California, Berkeley
   date: 2014
-  desc: Used a combination of simulations and theory to study the statistical properties of populations that populate a two-dimensional space. 
+  desc: Used a combination of simulations and theory to study the statistical properties of populations that populate a two-dimensional space.
   img: static/img/eden1.png
 
 - type: Journal Article
@@ -77,15 +86,15 @@
   authors: Alexander G Anderson  and Carl M Bender
   location: Journal of Physics A Mathematical and Theoretical
   date: 2012
-  desc: 
+  desc:
   img: static/img/bender_first.png
 
 - type: Journal Article
   title: Periodic Orbits for Classical Particles Having Complex Energy
-  authors: Alexander G Anderson and Carl M Bender
+  authors: Alexander G Anderson, Carl M Bender, and Uriel I. Morone
   location: Physics Letters A
   date: 2011
-  desc: 
+  desc:
   img: static/img/bender_periodic.png
 
 - type: Independent Project
@@ -93,23 +102,23 @@
   authors: Alexander G. Anderson, Henry Maltby, Jing Jing Li
   location: Berkeley Math Tournament Power Round
   date: 2013
-  desc: A proof-based round for a high school math contest about an important mathematical tool used in quantum mechanics. 
+  desc: A proof-based round for a high school math contest about an important mathematical tool used in quantum mechanics.
   img: static/img/commutator.png
   link: <a href='http://bmt.berkeley.edu/static/documents/oldtests/PowS2013.pdf'>Problems</a> |  <a href='http://bmt.berkeley.edu/static/documents/oldtests/PowS2013S.pdf'>Solutions</a>
- 
+
 - type: Curriculum Design
   title: AwesomeMath Summer Course in Intermediate Geometry
   authors: Alexander G. Anderson, Joseph Tkadlec
   location: AwesomeMath Summer Camp
   date: 2010, 2012
-  desc: Fourteen ninty minute lectures and ninty minute problem solving sessions for high school students excited about math competitions. 
+  desc: Fourteen ninty minute lectures and ninty minute problem solving sessions for high school students excited about math competitions.
   img: static/img/geo.png
 
 - type: Summer Research
   title: Phase Determination of Multilayer Mirrors using the Kramers-Kronig Relations
   authors: Alexander G. Anderson, Charles Bourassin-Bouchet, Sebastien de Rossi, Franck Delmotte
   date: 2011
-  desc: Determined that a potential new method of characterizing Multilayer mirrors was infeasible. 
+  desc: Determined that a potential new method of characterizing Multilayer mirrors was infeasible.
   img: static/img/phase.png
 
 - type: Class Project
@@ -117,5 +126,5 @@
   authors: Alexander G. Anderson
   location: Phage Hunters Class
   date: 2008
-  desc: 
+  desc:
   img: static/img/uncle_howie.jpg

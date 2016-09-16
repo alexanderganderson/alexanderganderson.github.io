@@ -3,29 +3,33 @@ layout: default
 ---
 <table border="0">
 	<tr>
-		<td>	
+		<td>
 			<center><h2>
 				Alex Anderson
 			</h2></center>
 			<p>
-				Hello everybody, my name is Alex and I am a Ph.D. Candidate at 
+				Hello everybody, my name is Alex and I am a Ph.D. Candidate at
 				UC Berkeley working with
 				<a href='http://http://redwood.berkeley.edu/bruno/' target='_blank'>
-					Bruno Olshausen</a> 
-				in the 
+					Bruno Olshausen</a>
+				in the
 				<a href='http://redwood.berkeley.edu/' target='_blank'>
-						Redwood Center</a>. I am funded through the 
+						Redwood Center</a>. I am funded through the
 				<a href='http://www.nsfgrfp.org' target='_blank'>
 						NSF GRFP
-				</a> and a research grant. 
-				I use machine learning to understand the brain, with a focus on vision. 
+				</a> and a research grant.
+				I use machine learning to understand human vision.
 			</p>
-			<p>		
-				In the past, I graduated summa cum laude at Washington University in 
-				St. Louis with a double major in math and physics. 
+			<p>
+				In the summer of 2016, I interned at
+                <a href='https://www.oculus.com/research/' target='_blank'>
+                    Oculus Research
+                </a>.
+                In the past, I graduated summa cum laude at Washington University in
+				St. Louis with a double major in math and physics.
 				I did my undergraduate thesis with
-				<a href='http://physics.wustl.edu/cmb/' target='_blank'> Carl Bender</a>. 
-				Before that, I enjoyed high school math competitions. 
+				<a href='http://physics.wustl.edu/cmb/' target='_blank'> Carl Bender</a>.
+				Before that, I enjoyed high school math competitions.
 				<center>
 					<a href='https://linkedin.com/in/{{site.linkedin_username}}' target='_blank'>LinkedIn</a> |
 					<a href='https://github.com/{{site.github_username}}' target='_blank'>GitHub</a> |
@@ -42,7 +46,7 @@ layout: default
 </table>
 
 <h2> Projects </h2>
-<table border="0">
+<table border=0>
 <ul>
 {% for pr in site.data.projects %}
   <tr>
@@ -50,8 +54,7 @@ layout: default
   <img src="{{ site.baseurl }}{{pr.img}}" width="400px" height="auto">
   </td>
   <td>
-    <div>{{pr.type}}:</div>
-    <div><b>{{pr.title}}</b> </div>
+      <div><u>{{pr.type}}</u>:  <b>{{pr.title}}</b> </div>
     <div><i>{{pr.authors}}</i> {{pr.location}} ({{pr.date}})</div>
     {{pr.desc}} {{pr.link}}
   </td>
