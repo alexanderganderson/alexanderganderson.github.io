@@ -6,14 +6,20 @@ categories: code
 ---
 
 # Introduction
-As a graduate student in computational neuroscience and machine
-learning, I spend quite a bit of time coding. Naturally, I want to produce
-valid code as fast as possible. While the desire to produce code quickly leads
-many scientists to produce spaghetti code, I have found that using good
-software engineering processes has dramatically increased my productivity. If
-you are to take away one thing from this post, it is as follows:
 
-Deliberately designing code that is easy to read and test pays huge dividends.
+As a graduate student in computational neuroscience and machine learning, I
+spend much of my time coding. Naturally, I want to produce valid code as fast
+as possible. While the desire to produce code quickly and the lack of a code
+review process often leads many scientists to produce poorly written code, I
+have found that using good software engineering processes has dramatically
+increased my productivity. If you are to take away one thing from this post, it
+is as follows:
+
+**Deliberately designing code that is easy to read and test pays huge
+dividends.**
+
+The rest of this post will discuss why it is beneficial for scientists to write
+great code and what specific actions you can take to write better code.
 
 # What are the benefits of writing great code?
 
