@@ -9,12 +9,12 @@
 
 - type: Journal Article
   title: Excess of mutational jackpot events in growing populations due to gene surfing
-  authors: Diana Fusco, Matti Gralka, Alex Anderson, Jona Kayser, Oskar Hallatschek
-  location: Nature Communications (accepted)
-  date: June 2016
+  authors: Diana Fusco, Matti Gralka, Jona Kayser, Alex Anderson, Oskar Hallatschek
+  location: Nature Communications
+  date: Oct 2016
   desc: Mutations propagate differently throughout a population depending on the spatial structure of the habitat.
   img: static/img/mix_vs_colony.png
-  link: <a href='http://biorxiv.org/content/early/2016/05/16/053405'>Preprint</a>
+  link: <a href='http://www.nature.com/articles/ncomms12760'>Paper</a>
 
 - type: Technical Report/Class Project
   title: DeepMovie   Using Optical Flow and Deep Neural Networks to Stylize Movies
