@@ -1,3 +1,12 @@
+- type: Summer Internship and Patent
+  title: Predictive Eye Tracking Using Recurrent Neural Networks
+  authors: Alex Anderson, Alex Fix, Rob Cavin, Aaron Nicholls
+  location: Oculus Perceptual Science Team
+  date: Summer 2016
+  desc: State of the art eye movement prediction using RNNs, including a new architecture for dealing with noisy data. [figure shows unrelated data from the Roorda Lab]
+  img: static/img/eye_trace.png
+  link: Paper in Progress
+
 - type: Conference Proceedings
   title: A Neural Model of High Acuity Vision in the Presence of Fixational Eye Movements
   authors: Alex Anderson, Kavitha Ratnam, Austin Roorda, Bruno Olshausen
