@@ -3,7 +3,9 @@
   authors: Alexander G.  Anderson, Cory P. Berg
   location: International Conference on Learning Representations (ICLR)
   date: Spring 2016
-  desc: Due to the high dimensional geometry of binary vectors, continuous feature vectors can be well-approximated by binary vectors, which enables the success of the Courbariaux, Hubara, et al. neural networks with binary weights and activations to work.
+  desc: Due to the high dimensional geometry of binary vectors, continuous feature vectors can be well-approximated by binary vectors.
+      This gives a theoretical foundation for the success of the Courbariaux, Hubara, et al. method of training neural networks with binary weights and activations.
+      The theory is also validated in such networks.
   img: static/img/bnn_fig.png
   link: <a href='https://openreview.net/forum?id=SkvQFOmtg'>Under Review</a>
 
