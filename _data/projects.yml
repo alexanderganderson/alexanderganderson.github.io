@@ -1,13 +1,13 @@
-- type: Workshop Submission
+- type: Poster Presentation
   title: The High Dimensional Geometry of Binary Neural Networks
   authors: Alexander G.  Anderson, Cory P. Berg
   location: International Conference on Learning Representations (ICLR)
-  date: Spring 2017
+  date: April 24th-26th 2017
   desc: Due to the high dimensional geometry of binary vectors, continuous feature vectors can be well-approximated by binary vectors.
       This gives a theoretical foundation for the success of the Courbariaux, Hubara, et al. method of training neural networks with binary weights and activations.
       The theory is also validated in such networks.
   img: static/img/bnn_fig.png
-  link: <a href='https://openreview.net/forum?id=SkvQFOmtg'>Under Review</a>
+  link: <a href='https://openreview.net/forum?id=SkvQFOmtg' target='_blank'>Paper and Review</a>
 
 - type: Summer Internship and Patent
   title: Predictive Eye Tracking Using Recurrent Neural Networks
@@ -25,7 +25,7 @@
   date: Nov 2016
   desc: Model corroborates psychophysical results on benefits of motion for high-acuity vision.
   img: static/img/motion_benefit.png
-  link: <a href='http://ieeexplore.ieee.org/abstract/document/7869110/'>Paper</a>
+  link: <a href='http://ieeexplore.ieee.org/abstract/document/7869110/' target='_blank'>Paper</a>
 
 - type: Journal Article
   title: Excess of mutational jackpot events in growing populations due to gene surfing
@@ -34,7 +34,7 @@
   date: Oct 2016
   desc: Mutations propagate differently throughout a population depending on the spatial structure of the habitat.
   img: static/img/mix_vs_colony.png
-  link: <a href='http://www.nature.com/articles/ncomms12760'>Paper</a>
+  link: <a href='http://www.nature.com/articles/ncomms12760' target='_blank'>Paper</a>
 
 - type: Technical Report/Class Project
   title: DeepMovie   Using Optical Flow and Deep Neural Networks to Stylize Movies
@@ -43,7 +43,7 @@
   date: May 2016
   desc: Style Transfer for Movies. See the Video for a clip of Star Wars in the Art Style of Vincent Van Gogh
   img: static/img/movie_style.png
-  link: <a href='https://arxiv.org/abs/1605.08153'>Paper</a> . <a href='https://youtu.be/nOrXeFBkP04'>Video</a>
+  link: <a href='https://arxiv.org/abs/1605.08153' target='_blank'>Paper</a> . <a href='https://youtu.be/nOrXeFBkP04' target='_blank'>Video</a>
 
 - type: Personal Project
   title: Artistic Style Transfer in TensorFlow
@@ -85,7 +85,7 @@
   date: July, 2015
   desc: Co-wrote code and led a tutorial on Sparse Coding for incoming Berkeley Neuroscience students.
   img: static/img/mnist_sparse.png
-  link: <a href='https://github.com/rctn/RCTN-neuro-bootcamp'>Link</a>
+  link: <a href='https://github.com/rctn/RCTN-neuro-bootcamp' target='_blank'>Link</a>
 
 - type: Class Project
   title: Analyzing the Internal Dynamics of a LSTM Trained to Solve the Reber Grammar
@@ -133,7 +133,7 @@
   date: 2013
   desc: A proof-based round for a high school math contest about an important mathematical tool used in quantum mechanics.
   img: static/img/commutator.png
-  link: <a href='http://bmt.berkeley.edu/static/documents/oldtests/PowS2013.pdf'>Problems</a> |  <a href='http://bmt.berkeley.edu/static/documents/oldtests/PowS2013S.pdf'>Solutions</a>
+  link: <a href='http://bmt.berkeley.edu/static/documents/oldtests/PowS2013.pdf' target='_blank'>Problems</a> |  <a href='http://bmt.berkeley.edu/static/documents/oldtests/PowS2013S.pdf'>Solutions</a>
 
 - type: Curriculum Design
   title: AwesomeMath Summer Course in Intermediate Geometry
