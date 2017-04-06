@@ -4,6 +4,8 @@ title: "What I wish I knew coming into a Ph.D. program"
 date: 2017-04-01
 categories: life
 ---
+[EDIT: April Fools!  The post is intended to start out serious but then get
+gradually weirder - still probably useful.]
 
 Hey everybody, as I am nearing the end of my Ph.D., I thought that it would be
 good to share some of my thoughts about how to have a good time in graduate
