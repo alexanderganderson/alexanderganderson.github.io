@@ -1,0 +1,390 @@
+---
+layout: post
+title: "Book Review: Deep Work by Cal Newport"
+date: 2017-05-02
+categories: bookreview
+---
+
+# **Overview**
+
+As automation and outsourcing shape the modern workplace, what skills do we
+need to succeed?  Cal Newport argues that the ability to do deep work, or the
+ability to perform professional activities in a state of distraction free
+concentration that pushes one's cognitive capabilities to the limit is the key
+to success. Deep work creates value, improves your skill, and
+is hard to replicate.
+
+
+# **Reactions**
+
+This book offers a synthesis of ideas that have been rattling around in my head
+for a while. While this book repeats a lot of advice that can be found in other
+books (e.g. Flow, The Art of Stress Free Productivity), I found that the spin
+that the author put on it was worth reading. One of the core trends that he
+identifies is that with increasing use of the internet, intellectual products can
+be substituted easily for one another. Thus there is a huge benefit to being
+the best in a particular area.  This is highly relevant to graduate students
+(and other researchers), because once a research paper is published, anybody
+can read it.  Only the best papers survive. I have been doing a variety of
+things suggested in this book for a while now, and I plan to be a bit more
+deliberate in seeking to create time where I focus.
+
+For the rest of this review, have a list of action items that you can take to
+implement this philosophy and a summary of the book to clarify the terms that I
+use in that list of action items.
+
+
+# **Action Items for Implementing the Deep Work in Your Life**
+
+[Requires a couple hours of intense thought, perhaps in multiple sessions, my
+spin on the suggestions from this book]
+
+- Convince yourself that deep work is a worthwhile goal to seek (see section
+  one below)
+- Decide on the type of deep work philosophy that you want to implement in your
+  life
+    - Add routines and rituals to your life to minimize distractions
+    - Where are you going to work and how long?
+    - How are you going to work (e.g. no internet)?
+    - How will you support your work (e.g. food, planning
+      your deep work sessions ahead of time)?
+    - How will you manage other people's expectations given your reduced
+      availability?
+    - Make a scoreboard for measuring your progress
+    - Plan a time to review your habits weekly
+- Say no to shallow work
+    - Use deep work as a heuristic for your productivity (work is deep if it
+      would take a long time to teach somebody else how to do it)
+    - Talk to your boss about how much of your time you should be doing shallow
+      vs deep work
+    - Put yourself in a scarcity mindset by limiting the amount of time that you work each day
+    - Create an inventory of all of the your obligations
+        - Identify your main high level goals
+        - For each goal identify two or three most important corresponding activities
+        - See a particular activity promotes success in these activities
+        - Determine your patterns for saying yes to shallow work so that you
+          don't say yes in the future.
+- Tips for dealing with distractions (especially technology)
+    - Critically evaluate the costs and benefits to all internet tools
+      that you use, and only continue to use the ones that provide
+      essential benefits that you cannot find elsewhere
+    - Schedule the time that you look at your email
+    - Strictly enforce a plan of using the internet at home and work (if
+      you unexpectedly need to use the internet, wait 5-10 mins before using
+      it)
+    - Quit social media for a period of a month without telling anybody and
+      see what is missed (i.e. don't disable, or say you are leaving, just stop
+      looking and responding)
+- Make high quality relaxation a priority
+    - Design a daily ritual to shut down your work
+    - Just do nothing when you need a break instead of going on the internet
+    - Plan activities that allow you to recharge daily
+
+
+# **Chapter Summaries**
+
+
+**Intro**
+
+Anecdote about how Carl Jung when he was developing his theory to
+challenge Freud's theory about the unconscious created a 'Tower' or a second
+house in the countryside where he could
+isolate himself and focus on developing his theory.  The point of this anecdote
+is to say that many famous thinkers took extraordinary measures to design their
+environment in a way that allowed them to focus for long periods of time.
+
+Deep work (defn): Professional activities performed in a state of
+distraction-free concentration that push your cognitive capabilities to the
+limit. These efforts create value, improve your skill, and are hard to
+replicate.
+
+Shallow work (defn): Noncognitively demanding, logistical-style tasks, often
+performed while distracted. These efforts tend to not create much new value in
+the world and are easily replicated.
+
+Many famous people have been known for their ability to do deep work.
+
+[Alex says: relevant to know about:
+Knowledge workers: people who mainly work with data and information. They
+perform non-routine, cognitively demanding tasks, and creative work that
+requires synthesizing structured and unstructured information. Economic trend
+that more and more jobs are knowledge work-based.]
+
+Deep work allows one to learn complex things fast, and in the modern workd, it
+is easy to find alternatives if your work isn't the best.
+
+Hypothesis: In the modern marketplace, deep work is both more valuable and more
+rare.
+
+**Part I**: The Idea
+
+- *Ch. 1: Deep Work is Valuable*
+
+Brynjolfsson and McAfee Theory: Three groups benefit from the technology
+revolution:
+
+- High-Skilled Workers: People who can work with intelligent machines.
+- The Superstars: People who are the best at their jobs (easy substitution
+  results in a winner-take-all marketplace)
+- The Owners: People with capital to invest
+
+*Core Abilities to be succesful*:
+[Deep work is essential to do these two things]
+
+- Master hard things quickly
+- Produce at an elite level (quality and speed)
+
+Theory of Deliberate Practice: In order to improve,
+- Focus on a specific skill
+- Get corrective feedback
+
+Attention Residue: Thoughts from previous tasks linger to new task (so one
+should batch hard tasks into uninterrupted stretches) [There is a variety of
+research on attention switching.]
+
+Some jobs like CEO may require rapid switching, but more jobs than one would
+initially think require deep work.
+
+- *Ch. 2: Deep Work is Rare*
+
+A variety of trends in business are pushing people towards shallower work such
+as open office spaces, instant messaging, and required online presence. This
+leads to fragmentation of attention in offices.
+
+The metric black hole: hard to measure how certain activities lead to the
+success of a business (e.g. response time to emails). Knowledge work is
+especially hard to measure.
+
+The principle of least resistance: many business waste time due to activities
+that are easy at the time but wasteful in the longr run. E.g. easy to be
+connected and answer emails quickly, compared to prioritizing essential
+activities.
+
+Business as a proxy for Productivity: Being busy is an easy, but erronous
+heuristic for measuring productivity (was better in the industrial era).
+Suggests better heuristic of doing deep work.
+
+The cult of the internet: people see all technology as good (technopoly) and
+people are criticized for going against this trend. This is bad for business
+but good for the people who are aware of this problem.
+
+- *Ch. 3: Deep Work is Meaningful*
+
+Anecdote about a master Blacksmith who finds the challenge and concentration of
+his work deeply satisfying.
+
+- A Neurlogical Argument for Depth: how we choose to focus our attention is
+  essential to our happiness, and shallow concerns are less satisfying.
+- A Psychological Argument for Depth: People report that their best moments are
+  when they are focused (e.g. Csik's research on flow)
+- A Philosophical Argument for Depth: As society moves away from religion,
+  craftsmanship provides a way to live a meaningful life.
+
+
+**Part I: The Rules**
+
+- *Rule 1: Work Deeply*
+
+Anecdote about the eudamonia machine - an architectural concept of creating a
+setting that facilitates deep work. The design contains a series of rooms, one
+after the other, that are purposed for more and more focused work. More
+generally around the idea of creating a work culture that prioritizes deep
+work.
+
+Baumeister study: asked people what they were thinking about throughout their
+day. Main finding: willpower is finite - expect to be constantly bombarded by
+distractions and to eventually succumb to them. Action strategy: add routines
+and rituals to one's life to minimize drains on willpower.
+
+*Decide on your depth philosophy*
+- Monastic Philosophy: radically eliminate shallow obligations Works best for
+  somebody with a well-defined and valued professional goal (e.g.  Donald
+  Knuth)
+- Bimodal Philosophy: Alternate between days of isolated deep work and
+  engagement with shallow obligations (e.g. Jung)
+- Rhythmic Philosophy: Engage in a behavior so that it becomes a routine -
+  often more practical given job obligations
+- Journalistic Philosophy: try ones best to insert focused sessions throughout
+  the day (hard to do!)
+
+Ritualize: Highly creative people build strict habits to focus:
+- Where are you going to work and for how long?
+- How are you going to work once you start? (e.g. banning use of internet)
+- How you will support your work? (e.g. food, light exercise)
+
+Make Grand Gestures: Create a radical change in your environment at a
+significant personal investment to increase focus and motivation (an extreme
+example being a person who bought a round trip business class plane ticket to
+focus on writing a book)
+
+Dont Work Alone: all this goes against the theory of serendipitous creativity
+where chance encounters generate new ideas.
+Suggests hub and spoke architecture of an office where there is a room to work
+together then individual rooms to focus.
+
+The whiteboard effect - depth can come closely from working closely with
+another person.
+
+Execute ideas like a business:
+key point: there is a crucial distinction about what one should do and how to
+actually do it.
+
+The 4 Disciplines of Execution (from business research)
+- Focus on the Wildly Important (say no to the trivial)
+- Act on lead measures (lag measure - long term goal, lead measure - immediate
+  behavior to achieve that long term goal) In this case, use deep work as a
+  lead measure
+- Keep a compelling scoreboard (e.g. track your lead measures potentially
+  publically, such as keep track of your deep work hours and track when goals
+  are achieved.
+- Create a cadence of accountability (e.g. a weekly review with a reflection)
+
+Be Lazy
+- Make an effort to plan high quality relaxation (allows you to engage in deep
+  work the next day)
+- Downtime aids insights (e.g. research on how decisions that involve
+  synthesizing many ambiguous cues is best left to the unconscious... people
+  asked to buy a car, those who were distracted did better than those who had
+  time to think about it deliberately)
+- Unconscious thought theory - unconscious can disentangle nebulous cues
+- Downtime recharges energy needed for deep work (e.g. spending time in nature,
+  where there are modestly interesting stimuli)
+- Evening work often not that important
+- Deliberate practice research (i.e. stretching ability in a certain skill) 1-4
+  hours is the daily maximum for intense concentration
+- Implementation tips:
+    - Make the commitment to stop in the evening
+    - Have a strict shutdown ritual where you review your goals
+- Zeigarnik Effect - incomplete tasks dominate our attention
+
+- *Rule 2: Embrace Boredom*
+
+Anecdote about orthodox jewish tradition of studying the talmud intensely early
+in the morning everydayi
+
+One must practice to be able to concentrate intensely and resisting temptation
+- Constant attention switching rewires your brain and can have long-term
+impacts on your ability to focus
+
+Strategies for improving ability to concentrate:
+
+Improving your ability to concentrate (don't take breaks from distraction, take
+breaks from focus) - it is unrealistic to expect to be able to focus on demand
+
+Internet detox is unlikely to work.
+
+Suggests method of building one's ability to resist the internet. Even if you
+need to use the internet, schedule your internet use in blocks and strictly
+maintain those blocks (if you unexpectedly need the internet, wait 5-10 mins
+before going on).  Also schedule your internet use at home. The goal here is to
+train ability to resist distractions.
+
+Work like Teddy Roosevelt: work with high intensity - decide on a task, give a
+hard artificial deadline that will force you to focus
+
+Meditate Productively: Identify tasks that require deep thought and take a walk
+and focus only on them (be wary of looping on the same ideas). Structure your
+deep thinking (load relevant info, work on next step, consolidate your gains)
+
+Memorize a deck of cards: memory atheletes practice improving focus. Prepare by
+imaging a sequence of rooms with objects in the room. Associtate a memorable
+thing with each object you need to memorize (e.g. person with a card).
+Associate objects in the scene with memorable items.
+
+[Alex notes: questionable advice except for the internet usage planning]
+
+- *Rule 3: Quit Social Media*
+
+Social media fragments our time [Alex notes: average smartphone user checks
+facebook 14 times a day for 2 mins at a time].
+
+Since social media is a new phenomenon, we have a limited vocabulary for
+discussing it. E.g. speaking of it as an addiction where the only solution is a
+purge [Alex notes: addiction is a good term, the problem is a misunderstanding
+of how to deal with addiction]. Suggests finding a middle ground between not
+using it at all and being hyper connected.
+
+Common arguments for using social media:
+
+Excuse: Social media has certain benefits - counter argument - any benefit mindset
+  can be counter productive. Instead, use the
+
+Craftsman approach to tool selection.
+  - Identify core factors that determine success/happiness and adopt a tool if
+    the positives significantly outweight the negatives
+  - Apply the law of the vital few to internet habits
+  - More detail:
+    - Identify main high level goals
+    - For each goal identify two or three most important corresponding activities
+    - See if network tools promote success in these activities
+
+The law of the Vital Few: 80 percent of the effect is due to 20 percent of the
+causes. Relatedly, time/attention is a zero sum game.
+
+Quit Social Media:
+Excuse: People worried that others will miss them leaving social media
+Response: Packing party for hoarding - put everything you own in boxes, remove
+  items from box if you need it, get rid of everything else in boxes
+  E.g. Leave social media with no fanefare and see what happens
+
+Social media makes it easier people to pay attention to us, and breaks our
+heuristics that say when others are paying attention, we are generating
+something valuable.
+
+Excuse: use the internet to entertain yourself:
+Response:
+- Anecdote: Arnold Bennet in 1910 - in wake of emerging white collar class that
+had more leisure time suggested that we pursue self-improvement during leisure
+time
+- Internet thrives in a vaccum and makes it easy to avoid boredom - take time
+  to plan fun activities
+- The mind wants change, not rest, so structured relaxation can be refreshing
+
+[Alex says: most people aren't going to want to do this]
+
+- *Rule 4: Drain the Shallows*
+
+Anecdote: A company had people only work 4 days a week, and this forced people
+to be more efficient with their time and they got roughly the same amount of
+work done. They also tried giving people a month to hack on a project and this
+generated a lot of value for the company.
+
+Shallow work seems more important at the time than it is - so make an effort to
+cull down shallow work.  Can do shallow work after deep work energy is
+exhausted.
+
+- Schedule Every Minute of Everyday:
+People vastly underestimate the amount of time that they spend watching tv and
+overestimate the amount of time they spend working.  Much of our time is spent
+on autopilot.
+
+Suggests blocking time of your day into 30 min chunks. You can make a plan in
+the morning, and allow it to change throughout the day.
+
+- Quantify the depth of each activity: A good way to tell the depth of an
+activity is to think about how long it would take to train a recent college
+graduate to do that job.
+
+- Ask your boss for a shallow work budget: Ask how much time you should be
+  spending do shallow activities. This helps you say no to things more and
+  provides a reality check for everybody.
+
+- Finish your work by 5:30: Forces you into strategies that save time.
+  Possible to do this as a professor (anecdote from a professor and the author)
+  Puts you into a scarcity mindset and helps you say no.
+
+- Become hard to reach:
+    - Make people who send you emails do more work (lowers expectations of
+      others)
+    - Think of the fewest number of emails necessary to resolve a conversation.
+    - Don't respond to emails that are ambiguous, not interesting, or not
+      beneficial (uncomfortable but worth it)
+
+**Conclusion:**
+Bill Gates is a good example of somebody who has used deep work.
+The author who implemented this philosophy as a professor found it effective
+but very exhausting.
+
+
+
+
