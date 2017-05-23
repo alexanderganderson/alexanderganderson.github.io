@@ -1,3 +1,12 @@
+- type: Technical Report
+  title: The High Dimensional Geometry of Binary Neural Networks
+  authors: Alexander G.  Anderson, Cory P. Berg
+  location: arxiv
+  date: May 23rd 2017
+  desc: A theoretical framework for understanding why we can reduce neural network weights and activations from 32 bits to one bit and have little loss in performance.
+  img: static/img/cifar-10_hist2d_small.png
+  link: <a href='https://arxiv.org/abs/1705.07199' target='_blank'>Paper</a>
+
 - type: Poster Presentation
   title: The High Dimensional Geometry of Binary Neural Networks
   authors: Alexander G.  Anderson, Cory P. Berg
