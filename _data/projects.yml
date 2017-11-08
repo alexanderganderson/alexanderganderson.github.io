@@ -18,7 +18,7 @@
   img: static/img/bnn_fig.png
   link: <a href='https://openreview.net/forum?id=SkvQFOmtg' target='_blank'>Paper and Review</a>
 
-- type: Summer Internship and Patent
+- type: Summer Internship
   title: Predictive Eye Tracking Using Recurrent Neural Networks
   authors: Alex Anderson, Alex Fix, Rob Cavin, Aaron Nicholls
   location: Oculus Perceptual Science Team
