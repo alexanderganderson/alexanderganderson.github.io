@@ -1,29 +1,30 @@
 ---
 layout: page
-title: Personal
+title: Outside of Work
 permalink: /personal/
 ---
 
-Outside my research, I do a variety of things to balance out my life. 
-Here are a couple of my interests that I always enjoy discussing:
+# Exercise
+Some of my favorite spots are: the Berkeley fire trails (for a beautiful hike or
+a *challenging* trail run), the Berkeley RSF (for weight lifting and
+calisthenics), Yoga to the People (for Vinyasa Yoga), and the Berkeley YWCA
+(for dance classes)!
 
-# Physical Health 
-I like to eat pretty healthy and exercise regularly. These days, 
-I mainly lift weights and hike - there are so many awesome trails in the area! 
-In the past I have also been into running.
+# Politics
+While politics has become a dirty word lately, the intended goal is
+fundamentally about working together to making our lives better.
+I find it valuable to keep up to date about what is going on in the world.
+Some of the campaigns that I am most excited about right now are Campaign Zero
+(policies for ending Police Violence in America)
+and Justice Democrats (democrats running for office who refuse to take
+corporate money).
 
-# Social Justice
-Once you start to see the ways in which the world treats 
-people unequally for no good reason, there is no going back. Thinking 
-about how mistreatment due to gender, race, and class strongly impacts how 
-I see the world. Relatedly, I have and continue to engage in a number of 
-activities to attempt to remedy these situations. For instance, I seek to 
-promote diversity in the physics department through The Berkeley 
-Compass Project and create an environment free of sexual harassment 
-through The Respect is a Part of Research group. 
+The unfortunate reality is that many people's lives are difficult for no good
+reason.  Once you start to this, there is no going back. Thinking about how
+mistreatment due to gender, race, and class strongly impacts how I see the
+world. See my volunteering page for what I'm doing about it!
 
 # Education
-Ever since I enjoyed learning, I have been excited about the 
-opportunity to share my experience. I have done a variety of forms of 
-mentoring and teaching. I've also enjoyed learning about various 
-techniques of being a more effective teacher (and communicator in general).
+Ever since I started learning, I have been excited about the opportunity to
+share my positive experiences. I enjoy mentoring, teaching, and learning how to
+be a better communicator.
