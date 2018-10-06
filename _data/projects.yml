@@ -1,3 +1,12 @@
+- type: Conference Poster
+  title: Motion Selectivity of Neurons in Self-Driving Networks
+  authors: Baladitya Yellapragada, Alexander G. Anderson, Stella Yu, and Karl Zipser
+  location: Perceptual Organization in Computer Vision (POCV) Workshop on Action, Perception and Organization at ECCV
+  date: September 9th 2018
+  desc: Neural networks trained to drive cars directly from video are shown to do optical flow-like computations.
+  img: static/img/flow_sensitivity1.png
+  link: <a href=http://www1.icsi.berkeley.edu/~stellayu/publication/2018motionPOCV.html target='_blank'>Paper</a>
+
 - type: Journal Article
   title: High-Acuity Vision from Retinal Image Motion
   authors: Alex Anderson, Kavitha Ratnam, Austin Roorda, Bruno Olshausen
@@ -25,6 +34,7 @@
   date: March 27th 2018
   desc: Neural networks are used to store images in noisy memory devices.
   img: static/img/autoencoder.png
+  link: <a href=https://ieeexplore.ieee.org/document/8416587/ target='_blank'>Paper</a>
   # link: Coming soon!
 
 - type: Poster Presentation
