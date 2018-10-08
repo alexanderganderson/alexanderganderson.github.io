@@ -1,4 +1,13 @@
 - type: Conference Poster
+  title: 'The Hyperdimensional Stack Machine: Robust Computing with Distributed Representations'
+  authors: Thomas Yerxa, Alexander G. Anderson, Eric Weiss
+  location: Cognitive Computing, Merging Concepts with Hardware
+  date: Dec. 18-20 2018
+  desc: High-dimensional vectors are used to implement a fault-tolerant, interpretable, and differentiable stack. The stack is then used to reverse sequences and parse reverse polish notation expressions.
+  img: static/img/stack.png
+  # link: <a href=http://www1.icsi.berkeley.edu/~stellayu/publication/2018motionPOCV.html target='_blank'>Paper</a>
+
+- type: Conference Poster
   title: Motion Selectivity of Neurons in Self-Driving Networks
   authors: Baladitya Yellapragada, Alexander G. Anderson, Stella Yu, and Karl Zipser
   location: Perceptual Organization in Computer Vision (POCV) Workshop on Action, Perception and Organization at ECCV
