@@ -1,3 +1,12 @@
+- type: Arxiv Paper
+  title: 'Learned Video Compression'
+  authors: Oren Rippel, Sanjay Nair, Carissa Lew, Steve Branson, Alexander G. Anderson, Lubomir Bourdev
+  date: Nov. 16 2018
+  desc: End-to-end learned model for low-latency video compression is shown to outperform the standards.
+  img: static/img/p_compression.png
+  link: <a href=https://arxiv.org/abs/1811.06981 target='_blank'>Paper</a>
+
+
 - type: Conference Poster
   title: 'The Hyperdimensional Stack Machine: Robust Computing with Distributed Representations'
   authors: Thomas Yerxa, Alexander G. Anderson, Eric Weiss
