@@ -1,17 +1,28 @@
-- type: Arxiv Paper
+- type: Journal Article
+  title: High-Acuity Vision from Retinal Image Motion
+  authors: Alexander G. Anderson, Kavitha Ratnam, Austin Roorda, Bruno Olshausen
+  location: Journal of Vision
+  date: 2020
+  desc: A mathematical model shows how the eyes' self-generated drift motion can
+      improve high-acuity vision by averaging over retinal inhomogeneities.
+  img: static/img/retina_model.png
+  link: In Production
+
+- type: Conference Paper
   title: 'Learned Video Compression'
   authors: Oren Rippel, Sanjay Nair, Carissa Lew, Steve Branson, Alexander G. Anderson, Lubomir Bourdev
-  date: Nov. 16 2018
+  location: International Conference on Computer Vision (ICCV)
+  date: Oct. 27, 2019
   desc: End-to-end learned model for low-latency video compression is shown to outperform the standards.
   img: static/img/p_compression.png
-  link: <a href=https://arxiv.org/abs/1811.06981 target='_blank'>Paper</a>
+  link: <a href=http://openaccess.thecvf.com/content_ICCV_2019/papers/Rippel_Learned_Video_Compression_ICCV_2019_paper.pdf target='_blank'>Paper</a>
 
 
 - type: Conference Poster
   title: 'The Hyperdimensional Stack Machine: Robust Computing with Distributed Representations'
   authors: Thomas Yerxa, Alexander G. Anderson, Eric Weiss
   location: Cognitive Computing, Merging Concepts with Hardware
-  date: Dec. 18-20 2018
+  date: Dec. 18-20, 2018
   desc: High-dimensional vectors are used to implement a fault-tolerant, interpretable, and differentiable stack. The stack is then used to reverse sequences and parse reverse polish notation expressions.
   img: static/img/stack.png
   # link: <a href=http://www1.icsi.berkeley.edu/~stellayu/publication/2018motionPOCV.html target='_blank'>Paper</a>
@@ -20,26 +31,16 @@
   title: Motion Selectivity of Neurons in Self-Driving Networks
   authors: Baladitya Yellapragada, Alexander G. Anderson, Stella Yu, and Karl Zipser
   location: Perceptual Organization in Computer Vision (POCV) Workshop on Action, Perception and Organization at ECCV
-  date: September 9th 2018
+  date: September 9th, 2018
   desc: Neural networks trained to drive cars directly from video are shown to do optical flow-like computations.
   img: static/img/flow_sensitivity1.png
   link: <a href=http://www1.icsi.berkeley.edu/~stellayu/publication/2018motionPOCV.html target='_blank'>Paper</a>
 
-- type: Journal Article
-  title: High-Acuity Vision from Retinal Image Motion
-  authors: Alex Anderson, Kavitha Ratnam, Austin Roorda, Bruno Olshausen
-  # location: International Conference on Learning Representations (ICLR) Conference Track
-  date: 2018
-  desc: A mathematical model shows how the eyes self-generated drift motion can
-      improve high-acuity vision by averaging over retinal inhomogeneities.
-  img: static/img/retina_model.png
-  link: Under Review
-
 - type: Conference Paper
   title: The High Dimensional Geometry of Binary Neural Networks
-  authors: Alexander G.  Anderson, Cory P. Berg
+  authors: Alexander G. Anderson, Cory P. Berg
   location: International Conference on Learning Representations (ICLR) Conference Track
-  date: April 30th 2018
+  date: April 30th, 2018
   desc: Recent successes of Binary Neural Networks can be understood based on the geometry of high-dimensional binary vectors.
   img: static/img/cifar-10_hist2d_small.png
   link: <a href='https://arxiv.org/abs/1705.07199' target='_blank'>Paper</a> | <a href='https://github.com/alexanderganderson/bnn_vis' target='_blank'>Code</a>
@@ -49,7 +50,7 @@
       Compression and Storage in Emerging Devices.
   authors: Ryan Zarcone, Dylan Paiton, Alexander G. Anderson, Jesse Engel, H.S. Phillip Wong, Bruno A. Olshausen.
   location: Data Compression Conference
-  date: March 27th 2018
+  date: March 27th, 2018
   desc: Neural networks are used to store images in noisy memory devices.
   img: static/img/autoencoder.png
   link: <a href=https://ieeexplore.ieee.org/document/8416587/ target='_blank'>Paper</a>
@@ -57,9 +58,9 @@
 
 - type: Poster Presentation
   title: The High Dimensional Geometry of Binary Neural Networks
-  authors: Alexander G.  Anderson, Cory P. Berg
+  authors: Alexander G. Anderson, Cory P. Berg
   location: International Conference on Learning Representations (ICLR) Workshop Track
-  date: April 24th-26th 2017
+  date: April 24th-26th, 2017
   desc: Due to the high dimensional geometry of binary vectors, continuous feature vectors can be well-approximated by binary vectors.
       This gives a theoretical foundation for the success of the Courbariaux, Hubara, et al. method of training neural networks with binary weights and activations.
       The theory is also validated in such networks.
@@ -73,11 +74,10 @@
   date: Summer 2016
   desc: State of the art eye movement prediction using RNNs, including a new architecture for dealing with noisy data. [figure shows unrelated data from the Roorda Lab]
   img: static/img/eye_trace.png
-  link: Paper in Progress
 
 - type: Conference Proceedings
   title: A Neural Model of High Acuity Vision in the Presence of Fixational Eye Movements
-  authors: Alex Anderson, Kavitha Ratnam, Austin Roorda, Bruno Olshausen
+  authors: Alexander G. Anderson, Kavitha Ratnam, Austin Roorda, Bruno Olshausen
   location: Asilomar Conference on Signals, Systems, and Computers
   date: Nov 2016
   desc: Model corroborates psychophysical results on benefits of motion for high-acuity vision.
@@ -86,7 +86,7 @@
 
 - type: Journal Article
   title: Excess of mutational jackpot events in growing populations due to gene surfing
-  authors: Diana Fusco, Matti Gralka, Jona Kayser, Alex Anderson, Oskar Hallatschek
+  authors: Diana Fusco, Matti Gralka, Jona Kayser, Alexander G. Anderson, Oskar Hallatschek
   location: Nature Communications
   date: Oct 2016
   desc: Mutations propagate differently throughout a population depending on the spatial structure of the habitat.

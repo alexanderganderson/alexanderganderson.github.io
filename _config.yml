@@ -9,7 +9,7 @@
 title: Alex Anderson's Website
 email: aga@berkeley<.edu>
 description: > # this means to ignore newlines until "baseurl:"
-    Website for Alex Anderson, a Ph.D. candidate at UC Berkeley in computational neuroscience and machine learning. 
+    Website for Alex Anderson, Research Scientist at WaveOne.
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 github_username:  alexanderganderson

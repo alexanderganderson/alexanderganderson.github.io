@@ -11,7 +11,7 @@ calisthenics), Yoga to the People (for Vinyasa Yoga), and the Berkeley YWCA
 (for dance classes)!
 
 # Politics
-While politics has become a dirty word lately, the intended goal is
+While politics has become very divisive lately, it is
 fundamentally about working together to making our lives better.
 I find it valuable to keep up to date about what is going on in the world.
 Some of the campaigns that I am most excited about right now are Campaign Zero
