@@ -5,10 +5,15 @@ permalink: /personal/
 ---
 
 # Exercise
-Some of my favorite spots are: the Berkeley fire trails (for a beautiful hike or
-a *challenging* trail run), the Berkeley RSF (for weight lifting and
-calisthenics), Yoga to the People (for Vinyasa Yoga), and the Berkeley YWCA
-(for dance classes)!
+Living a balanced, healthy life is and always has been a priority for me!
+Lately, I've been running amongst the birds in the Palo Alto Baylands,
+exercising with gymnastics rings in South Bay parks, and hip-hop dancing at local
+studios.
+
+<!-- Some of my favorite spots are: the Berkeley fire trails (for a beautiful hike or -->
+<!-- a *challenging* trail run), the Berkeley RSF (for weight lifting and -->
+<!-- calisthenics), Yoga to the People (for Vinyasa Yoga), and the Berkeley YWCA -->
+<!-- (for dance classes)! -->
 
 # Politics
 While politics has become very divisive lately, it is

@@ -11,13 +11,13 @@ layout: default
 				Hello! My name is Alex and I am a machine learning research scientist at
                 <a href='http://www.wave.one/' target='_blank'>
 					WaveOne</a>.
-                I recently finished my Ph.D. at
-				UC Berkeley where I worked with
+                I worked with
 				<a href='http://http://redwood.berkeley.edu/bruno/' target='_blank'>
 					Bruno Olshausen</a>
 				in the
 				<a href='http://redwood.berkeley.edu/' target='_blank'>
-						Redwood Center for Theoretical Neuroscience</a>.
+						Redwood Center for Theoretical Neuroscience</a> during
+                    my Ph.D.
 				In the summer of 2016, I interned at
                 <a href='https://www.oculus.com/research/' target='_blank'>
                     Oculus Research</a>.
@@ -41,13 +41,17 @@ layout: default
 	</tr>
 </table>
 
-<h2> Projects </h2>
+
+<div style="height: 50px;">&nbsp;</div>
+
+
+<h2 style="text-align:center"> Representative Work </h2>
 <table border=0>
 <ul>
 {% for pr in site.data.projects %}
   <tr>
   <td>
-  <img src="{{ site.baseurl }}{{pr.img}}" width="800px" height="auto">
+  <img src="{{ site.baseurl }}{{pr.img}}" style="max-height: 400px; max-width: 200px;">
   </td>
   <td>
       <div><u>{{pr.type}}</u>:  <b>{{pr.title}}</b> </div>
@@ -56,5 +60,28 @@ layout: default
   </td>
   </tr>
 {% endfor%}
+</ul>
+</table>
+
+<div style="height: 50px;">&nbsp;</div>
+
+<h2 style="text-align:center"> Past Projects </h2>
+
+<table border=0>
+<ul>
+{% for pr in site.data.other_projects %}
+  <tr>
+  <td>
+  <img src="{{ site.baseurl }}{{pr.img}}" style="max-height: 400px; max-width: 200px;">
+  </td>
+  <td>
+      <div><u>{{pr.type}}</u>:  <b>{{pr.title}}</b> </div>
+    <div><i>{{pr.authors}}</i> {{pr.location}} ({{pr.date}})</div>
+    {{pr.desc}} {{pr.link}}
+  </td>
+  </tr>
+{% endfor%}
+
+
 </ul>
 </table>

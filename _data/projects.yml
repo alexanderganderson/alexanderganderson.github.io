@@ -2,11 +2,11 @@
   title: High-Acuity Vision from Retinal Image Motion
   authors: Alexander G. Anderson, Kavitha Ratnam, Austin Roorda, Bruno Olshausen
   location: Journal of Vision
-  date: 2020
+  date: July 2020
   desc: A mathematical model shows how the eyes' self-generated drift motion can
       improve high-acuity vision by averaging over retinal inhomogeneities.
   img: static/img/retina_model.png
-  link: In Production
+  link: <a href=https://jov.arvojournals.org/article.aspx?articleid=2770552 target='_blank'>Paper</a>
 
 - type: Conference Paper
   title: 'Learned Video Compression'
@@ -18,23 +18,32 @@
   link: <a href=http://openaccess.thecvf.com/content_ICCV_2019/papers/Rippel_Learned_Video_Compression_ICCV_2019_paper.pdf target='_blank'>Paper</a>
 
 
-- type: Conference Poster
-  title: 'The Hyperdimensional Stack Machine: Robust Computing with Distributed Representations'
-  authors: Thomas Yerxa, Alexander G. Anderson, Eric Weiss
-  location: Cognitive Computing, Merging Concepts with Hardware
-  date: Dec. 18-20, 2018
-  desc: High-dimensional vectors are used to implement a fault-tolerant, interpretable, and differentiable stack. The stack is then used to reverse sequences and parse reverse polish notation expressions.
-  img: static/img/stack.png
-  # link: <a href=http://www1.icsi.berkeley.edu/~stellayu/publication/2018motionPOCV.html target='_blank'>Paper</a>
+# - type: Conference Poster
+#   title: 'The Hyperdimensional Stack Machine: Robust Computing with Distributed Representations'
+#   authors: Thomas Yerxa, Alexander G. Anderson, Eric Weiss
+#   location: Cognitive Computing, Merging Concepts with Hardware
+#   date: Dec. 18-20, 2018
+#   desc: High-dimensional vectors are used to implement a fault-tolerant, interpretable, and differentiable stack. The stack is then used to reverse sequences and parse reverse polish notation expressions.
+#   img: static/img/stack.png
+#   # link: <a href=http://www1.icsi.berkeley.edu/~stellayu/publication/2018motionPOCV.html target='_blank'>Paper</a>
 
-- type: Conference Poster
-  title: Motion Selectivity of Neurons in Self-Driving Networks
-  authors: Baladitya Yellapragada, Alexander G. Anderson, Stella Yu, and Karl Zipser
-  location: Perceptual Organization in Computer Vision (POCV) Workshop on Action, Perception and Organization at ECCV
-  date: September 9th, 2018
-  desc: Neural networks trained to drive cars directly from video are shown to do optical flow-like computations.
-  img: static/img/flow_sensitivity1.png
-  link: <a href=http://www1.icsi.berkeley.edu/~stellayu/publication/2018motionPOCV.html target='_blank'>Paper</a>
+# - type: Conference Poster
+#   title: Motion Selectivity of Neurons in Self-Driving Networks
+#   authors: Baladitya Yellapragada, Alexander G. Anderson, Stella Yu, and Karl Zipser
+#   location: Perceptual Organization in Computer Vision (POCV) Workshop on Action, Perception and Organization at ECCV
+#   date: September 9th, 2018
+#   desc: Neural networks trained to drive cars directly from video are shown to do optical flow-like computations.
+#   img: static/img/flow_sensitivity1.png
+#   link: <a href=http://www1.icsi.berkeley.edu/~stellayu/publication/2018motionPOCV.html target='_blank'>Paper</a>
+
+- type: Thesis Chapter
+  title: Latency Compensation with Recurrent Neural Networks for Gaze Contingent Displays
+  authors: Alexander G. Anderson, Alexander Fix, Rob Cavin, Aaron Nicholls
+  location: Oculus Perceptual Science Team
+  date: May 2018
+  desc: State of the art eye movement prediction using RNNs, including a new architecture for dealing with noisy data.
+  img: static/img/gaze_pred.png
+  link: <a href=https://digitalassets.lib.berkeley.edu/etd/ucb/text/Anderson_berkeley_29E_17986.pdf target='_blank'>Paper (Ch 3.)</a>
 
 - type: Conference Paper
   title: The High Dimensional Geometry of Binary Neural Networks
@@ -56,67 +65,51 @@
   link: <a href=https://ieeexplore.ieee.org/document/8416587/ target='_blank'>Paper</a>
   # link: Coming soon!
 
-- type: Poster Presentation
-  title: The High Dimensional Geometry of Binary Neural Networks
-  authors: Alexander G. Anderson, Cory P. Berg
-  location: International Conference on Learning Representations (ICLR) Workshop Track
-  date: April 24th-26th, 2017
-  desc: Due to the high dimensional geometry of binary vectors, continuous feature vectors can be well-approximated by binary vectors.
-      This gives a theoretical foundation for the success of the Courbariaux, Hubara, et al. method of training neural networks with binary weights and activations.
-      The theory is also validated in such networks.
-  img: static/img/bnn_fig.png
-  link: <a href='https://openreview.net/forum?id=SkvQFOmtg' target='_blank'>Paper and Review</a>
+# - type: Poster Presentation
+#   title: The High Dimensional Geometry of Binary Neural Networks
+#   authors: Alexander G. Anderson, Cory P. Berg
+#   location: International Conference on Learning Representations (ICLR) Workshop Track
+#   date: April 24th-26th, 2017
+#   desc: Due to the high dimensional geometry of binary vectors, continuous feature vectors can be well-approximated by binary vectors.
+#       This gives a theoretical foundation for the success of the Courbariaux, Hubara, et al. method of training neural networks with binary weights and activations.
+#       The theory is also validated in such networks.
+#   img: static/img/bnn_fig.png
+#   link: <a href='https://openreview.net/forum?id=SkvQFOmtg' target='_blank'>Paper and Review</a>
 
-- type: Summer Internship
-  title: Predictive Eye Tracking Using Recurrent Neural Networks
-  authors: Alexander G. Anderson, Alexander Fix, Rob Cavin, Aaron Nicholls
-  location: Oculus Perceptual Science Team
-  date: Summer 2016
-  desc: State of the art eye movement prediction using RNNs, including a new architecture for dealing with noisy data. [figure shows unrelated data from the Roorda Lab]
-  img: static/img/eye_trace.png
+# - type: Conference Proceedings
+#   title: A Neural Model of High Acuity Vision in the Presence of Fixational Eye Movements
+#   authors: Alexander G. Anderson, Kavitha Ratnam, Austin Roorda, Bruno Olshausen
+#   location: Asilomar Conference on Signals, Systems, and Computers
+#   date: Nov 2016
+#   desc: Model corroborates psychophysical results on benefits of motion for high-acuity vision.
+#   img: static/img/motion_benefit.png
+#   link: <a href='http://ieeexplore.ieee.org/abstract/document/7869110/' target='_blank'>Paper</a>
 
-- type: Conference Proceedings
-  title: A Neural Model of High Acuity Vision in the Presence of Fixational Eye Movements
-  authors: Alexander G. Anderson, Kavitha Ratnam, Austin Roorda, Bruno Olshausen
-  location: Asilomar Conference on Signals, Systems, and Computers
-  date: Nov 2016
-  desc: Model corroborates psychophysical results on benefits of motion for high-acuity vision.
-  img: static/img/motion_benefit.png
-  link: <a href='http://ieeexplore.ieee.org/abstract/document/7869110/' target='_blank'>Paper</a>
-
-- type: Journal Article
-  title: Excess of mutational jackpot events in growing populations due to gene surfing
-  authors: Diana Fusco, Matti Gralka, Jona Kayser, Alexander G. Anderson, Oskar Hallatschek
-  location: Nature Communications
-  date: Oct 2016
-  desc: Mutations propagate differently throughout a population depending on the spatial structure of the habitat.
-  img: static/img/mix_vs_colony.png
-  link: <a href='http://www.nature.com/articles/ncomms12760' target='_blank'>Paper</a>
+# - type: Journal Article
+#   title: Excess of mutational jackpot events in growing populations due to gene surfing
+#   authors: Diana Fusco, Matti Gralka, Jona Kayser, Alexander G. Anderson, Oskar Hallatschek
+#   location: Nature Communications
+#   date: Oct 2016
+#   desc: Mutations propagate differently throughout a population depending on the spatial structure of the habitat.
+#   img: static/img/mix_vs_colony.png
+#   link: <a href='http://www.nature.com/articles/ncomms12760' target='_blank'>Paper</a>
 
 - type: Technical Report
   title: DeepMovie - Using Optical Flow and Deep Neural Networks to Stylize Movies
   authors: Alexander G. Anderson, Cory P. Berg, Daniel P. Mossing, Bruno A. Olshausen
   location: Berkeley
   date: May 2016
-  desc: Style Transfer for Movies. See the Video for a clip of Star Wars in the Art Style of Vincent Van Gogh
+  desc: Style Transfer for Movies. See the Video for a clip of Star Wars in the Art Style of Vincent Van Gogh.
   img: static/img/movie_style.png
-  link: <a href='https://arxiv.org/abs/1605.08153' target='_blank'>Paper</a> . <a href='https://youtu.be/nOrXeFBkP04' target='_blank'>Video</a>
+  link: <a href='https://arxiv.org/abs/1605.08153' target='_blank'>Paper</a> | <a href='https://youtu.be/nOrXeFBkP04' target='_blank'>Video</a>
 
-- type: Personal Project
-  title: Artistic Style Transfer in TensorFlow
-  authors: Alexander G. Anderson
-  location: Berkeley
-  date: 2016
-  desc: Implementation of Artistic Style Transfer in TensorFlow
-  img: static/img/desert_face.jpg
-  link: <a href='static/img/beezle_face.jpg'>Another Photo</a>
 
-- type: Conference Poster
-  title: Modeling High Acuity Vision in the Presence of Fixational Eye Movements
-  authors: Alexander G. Anderson, Bruno A. Olshausen
-  location: Computational and Systems Neuroscience (COSYNE)
-  date: 2016
-  img: static/img/cosyne_poster.png
+# - type: Conference Poster
+#   title: Modeling High Acuity Vision in the Presence of Fixational Eye Movements
+#   authors: Alexander G. Anderson, Bruno A. Olshausen
+#   location: Computational and Systems Neuroscience (COSYNE)
+#   date: 2016
+#   img: static/img/cosyne_poster.png
 
 # - type: Conference Presentation
 #   title: High Acuity Vision in the Presence of Fixational Eye Movements
@@ -134,82 +127,69 @@
 #   desc:
 #   img: static/img/recovered_e.png
 
-- type: Tutorial
-  title: Sparse Coding Tutorial
-  authors: Alexander G. Anderson, Jesse Livezey, Guy Isley, Charles Frye
-  location: Redwood Center for Theoretical Neuroscience
-  date: July, 2015
-  desc: Co-wrote code and led a tutorial on Sparse Coding for incoming Berkeley Neuroscience students.
-  img: static/img/mnist_sparse.png
-  link: <a href='https://github.com/rctn/RCTN-neuro-bootcamp' target='_blank'>Link</a>
+# - type: Tutorial
+#   title: Sparse Coding Tutorial
+#   authors: Alexander G. Anderson, Jesse Livezey, Guy Isley, Charles Frye
+#   location: Redwood Center for Theoretical Neuroscience
+#   date: July, 2015
+#   desc: Co-wrote code and led a tutorial on Sparse Coding for incoming Berkeley Neuroscience students.
+#   img: static/img/mnist_sparse.png
+#   link: <a href='https://github.com/rctn/RCTN-neuro-bootcamp' target='_blank'>Link</a>
 
-- type: Class Project
-  title: Analyzing the Internal Dynamics of a LSTM Trained to Solve the Reber Grammar
-  authors: Alexander G. Anderson
-  location: Redwood Center for Theoretical Neuroscience
-  date: 2014
-  desc: Implemented a LSTM in theano and analyzed the hidden dynamics that give rise to the solution of the Reber Grammar problem.
-  img: static/img/lstm.png
+# - type: Class Project
+#   title: Analyzing the Internal Dynamics of a LSTM Trained to Solve the Reber Grammar
+#   authors: Alexander G. Anderson
+#   location: Redwood Center for Theoretical Neuroscience
+#   date: 2014
+#   desc: Implemented a LSTM in theano and analyzed the hidden dynamics that give rise to the solution of the Reber Grammar problem.
+#   img: static/img/lstm.png
 
-- type: Class Project
-  title: Parameter Sensitivity for MIRT Models
-  authors: Alexander G. Anderson, Eliana Feasley
-  date: 2014
-  desc: Final project for a class on graphical modeling. Understood and modified a codebase that used EM (expectation-maximization) to predict student performance on math questions.
-  img: static/img/khan.png
+# - type: Class Project
+#   title: Parameter Sensitivity for MIRT Models
+#   authors: Alexander G. Anderson, Eliana Feasley
+#   date: 2014
+#   desc: Final project for a class on graphical modeling. Understood and modified a codebase that used EM (expectation-maximization) to predict student performance on math questions.
+#   img: static/img/khan.png
 
-- type: Graduate Research Rotation Project
-  title: Standing Variation in 2D Range Expansions
-  authors: Alexander G. Anderson, Matti Gralka, Oskar Hallatschek
-  location: University of California, Berkeley
-  date: 2014
-  desc: Used a combination of simulations and theory to study the statistical properties of populations that populate a two-dimensional space.
-  img: static/img/eden1.png
+# - type: Graduate Research Rotation Project
+#   title: Standing Variation in 2D Range Expansions
+#   authors: Alexander G. Anderson, Matti Gralka, Oskar Hallatschek
+#   location: University of California, Berkeley
+#   date: 2014
+#   desc: Used a combination of simulations and theory to study the statistical properties of populations that populate a two-dimensional space.
+#   img: static/img/eden1.png
 
-- type: Journal Article
-  title: Complex Trajectories in a Classical Periodic Potential
-  authors: Alexander G Anderson  and Carl M Bender
-  location: Journal of Physics A Mathematical and Theoretical
-  date: 2012
-  desc:
-  img: static/img/bender_first.png
+# - type: Journal Article
+#   title: Complex Trajectories in a Classical Periodic Potential
+#   authors: Alexander G Anderson  and Carl M Bender
+#   location: Journal of Physics A Mathematical and Theoretical
+#   date: 2012
+#   desc:
+#   img: static/img/bender_first.png
 
-- type: Journal Article
-  title: Periodic Orbits for Classical Particles Having Complex Energy
-  authors: Alexander G Anderson, Carl M Bender, and Uriel I. Morone
-  location: Physics Letters A
-  date: 2011
-  desc:
-  img: static/img/bender_periodic.png
+# - type: Journal Article
+#   title: Periodic Orbits for Classical Particles Having Complex Energy
+#   authors: Alexander G Anderson, Carl M Bender, and Uriel I. Morone
+#   location: Physics Letters A
+#   date: 2011
+#   desc:
+#   img: static/img/bender_periodic.png
 
-- type: Independent Project
-  title: The Algebra of Noncommutative Operators
-  authors: Alexander G. Anderson, Henry Maltby, Jing Jing Li
-  location: Berkeley Math Tournament Power Round
-  date: 2013
-  desc: A proof-based round for a high school math contest about an important mathematical tool used in quantum mechanics.
-  img: static/img/commutator.png
-  link: <a href='http://bmt.berkeley.edu/static/documents/oldtests/PowS2013.pdf' target='_blank'>Problems</a> |  <a href='http://bmt.berkeley.edu/static/documents/oldtests/PowS2013S.pdf'>Solutions</a>
+# - type: Independent Project
+#   title: The Algebra of Noncommutative Operators
+#   authors: Alexander G. Anderson, Henry Maltby, Jing Jing Li
+#   location: Berkeley Math Tournament Power Round
+#   date: 2013
+#   desc: A proof-based round for a high school math contest about an important mathematical tool used in quantum mechanics.
+#   img: static/img/commutator.png
+#   link: <a href='http://bmt.berkeley.edu/static/documents/oldtests/PowS2013.pdf' target='_blank'>Problems</a> |  <a href='http://bmt.berkeley.edu/static/documents/oldtests/PowS2013S.pdf'>Solutions</a>
 
-- type: Curriculum Design
-  title: AwesomeMath Summer Course in Intermediate Geometry
-  authors: Alexander G. Anderson, Joseph Tkadlec
-  location: AwesomeMath Summer Camp
-  date: 2010, 2012
-  desc: Fourteen ninty minute lectures and ninty minute problem solving sessions for high school students excited about math competitions.
-  img: static/img/geo.png
+# - type: Curriculum Design
+#   title: AwesomeMath Summer Course in Intermediate Geometry
+#   authors: Alexander G. Anderson, Joseph Tkadlec
+#   location: AwesomeMath Summer Camp
+#   date: 2010, 2012
+#   desc: Fourteen ninty minute lectures and ninty minute problem solving sessions for high school students excited about math competitions.
+#   img: static/img/geo.png
 
-- type: Summer Research
-  title: Phase Determination of Multilayer Mirrors using the Kramers-Kronig Relations
-  authors: Alexander G. Anderson, Charles Bourassin-Bouchet, Sebastien de Rossi, Franck Delmotte
-  date: 2011
-  desc: Determined that a potential new method of characterizing Multilayer mirrors was infeasible.
-  img: static/img/phase.png
 
-- type: Class Project
-  title: Isolation and Characterization of Mycobacteriophage Uncle Howie
-  authors: Alexander G. Anderson
-  location: Phage Hunters Class
-  date: 2008
-  desc:
-  img: static/img/uncle_howie.jpg
