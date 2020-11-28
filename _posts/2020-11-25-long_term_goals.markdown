@@ -28,21 +28,22 @@ your own path if you understand why they did what they did.
 
 # Maintaining a consistent direction with increasing impact over time
 
-Your career will benefit if you are an expert in a particular ML subfield (e.g.
-language translation, robotics) or a machine-learning technology that solves a
-business problem (e.g.  recommendation algorithms).  Furthermore, a successful career is
-composed of a series of milestones that move towards a specific direction with
-increasing scope over time.  In reality, to get your foot in the door, you may
-need to do projects with goals that aren't particularly motivating to you.
-Regardless, you will get the opportunity to
-demonstrate competency and an ability to grow. If you
-complete smaller projects well, people will be willing to entrust you with larger,
-more important projects in the future.  Additionally, the more that you can
-consistently do projects in the same area with increasing scope and impact, the
-better.  However, in reality, not every project you do will be along one career
-trajectory. In this case, you can still make progress by reflecting on what you
-found most motivating in the past and try to make better decisions in the
-future in terms of what to work on.
+Since people are looking for the best person to solve a particular job or
+investigate a certain area, it pays to be excellent in one area rather than to
+be good in a number of areas.  You should aim to be an expert in a particular
+ML subfield (e.g.  language translation, robotics) or a ML technology that
+solves a specific business problem (e.g.  recommendation algorithms).
+Furthermore, a successful career is composed of a series of milestones that
+move towards a specific direction with increasing scope over time.  In reality,
+to get your foot in the door, you may need to do projects with goals that
+aren't particularly motivating to you.  Regardless, you will get the
+opportunity to demonstrate competency and an ability to grow. If you complete
+smaller projects well, people will be willing to entrust you with larger, more
+important projects in the future.  Additionally, you should aim to  do projects
+in the same area with increasing scope and impact.  However, in reality, not
+every project you do will be along one career trajectory. In this case, you can
+still make progress by reflecting on what you found most motivating in the past
+and try to make better decisions in the future in terms of what to work on.
 
 
 # Achievable yet novel
@@ -51,30 +52,30 @@ A central challenge of developing a career trajectory is to do work that is
 both achievable and novel. One key is to identify an area where the research
 ideas and technology have only recently gotten powerful enough to make
 meaningful progress.
-For instance, image classification with
-neural networks was was the result innovation in neural network optimization combined
+For instance, the breakthrough in image classification
+came when innovations in neural network optimization came
+together
 with sufficient computational power (e.g. train a ~10 layer neural network with ~100
 channels per layer on a million images for a number of epochs).
 In order to explore this idea further, I'll consider two researchers (now
-assistant professors at top universities) that started their Ph.D's around the
+assistant professors at top universities) who started their Ph.D's around the
 time that I did. For reference, a watershed moment in deep learning was late
 2012 when Krizhevsky et al. developed the first convolutional neural
-network approach to out perform classical methods on image compression.
+network approach to outperform classical methods on image compression.
 
-Chelsea [Finn] at Stanford has become an expert in developing intelligent
-robots. One example of how her work has been very impactful is that we've
-learned a lot about what algorithms can enable an embodied agent to learn its
-sensor-motor relationships through exploration. Additionally, there is the
-promise of various types of industrial applications for making more robust
+[Chelsea Finn] at Stanford has become an expert in developing intelligent
 robots. Back in 2014, there were exciting successes in classification, but
-the robotics field had seen relatively few successful applications of deep
-learning to robotics. Robotics is difficult because you need an actual robot
+robotics had seen relatively few applications of deep
+learning. Robotics is difficult because you need an actual robot
 and the advances in neural networks (algorithms and accelerators) were
 relatively new.  Thus the research area was prime for growth due to the
 convergence of different ideas and technology.
+Her work has
+investigated algorithms that can enable an embodied agent to learn its
+sensor-motor relationships through exploration. Furthermore, there is the
+promise of more robust industrial robots.
 
-
-Song [Han] at MIT has become an expert in the topic of efficient deployment of
+[Song Han] at MIT has become an expert in the topic of efficient deployment of
 neural networks.  Back in 2014, again, neural networks were achieving
 impressive research results, but there were many unanswered questions on the
 topic of practical deployment. Song and collaborators were able to identify
@@ -98,7 +99,7 @@ milestones and create solutions to those problems, connect with me on
 feedback on how to make better decisions at all stages of your career, check out my [coaching]
 page.
 
-[finn]: https://ai.stanford.edu/~cbfinn/
-[han]: https://songhan.mit.edu/
+[chelsea finn]: https://ai.stanford.edu/~cbfinn/
+[song han]: https://songhan.mit.edu/
 [linkedin]: https://www.linkedin.com/in/alexanderganderson/
 [coaching]: /coaching
