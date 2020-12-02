@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Choosing Milestones as a ML Researcher
-date: 2020-11-25
+date: 2020-12-01
 categories: engineering
 ---
 
