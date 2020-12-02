@@ -64,3 +64,29 @@ Track record at a glance,
 - Co-organizer and mentor for the Berkeley Compass Project, Teacher and camp
   counselor at the Awesomemath Summer Program, and Residential Peer Mentor at
   WashU
+
+**Endorsements**
+
+To get a sense of what I'll be like as a coach, consider these endorsements
+from my collaborators during my Ph.D.:
+
+"*Alex was my research mentor at UC Berkeley while I was an undergrad. He took
+me on for a few projects despite my major being unrelated to machine learning,
+and he worked really hard to teach me not only the subject matter and research
+best-practices, but a variety of general skills that I still apply day-to-day
+professionally. He was a great teacher who pushed me to do better every chance
+he got and he genuinely cared about my success.*"
+
+-- Cory Berg  (paper published at ICLR)
+
+
+"*Alex and I shared an office for over 2 years, during which time we worked on a
+number of projects and published a paper.
+Alex developed a clear strategy for the projects we worked on, outlining each
+sub-task with accompanying milestones.
+He provided helpful, constructive feedback any many projects in the broader
+group we were a part of.
+Many members of our broader group would seek advice from him on their projects
+or career trajectories.*"
+
+-- Ryan Zarcone, Ph.D.

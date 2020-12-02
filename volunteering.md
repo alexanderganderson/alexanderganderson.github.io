@@ -18,7 +18,7 @@ Key takeaways:
   accomplish by just showing up.
 - While showing up is the first step, it is also crucial to spend time
   learning how we have come to the beliefs that we have and what we can do to
-  change the negative ones (e.g. through seeking out the relevent knowledge
+  change the negative ones (e.g. through seeking out the relevant knowledge
   from sociology, feminism, education theory, etc). This can be hard
   emotionally, but is crucial for developing being as effective as possible.
 - Designing programs to help others has helped me tremendously.
@@ -27,7 +27,7 @@ If you are interested in hearing more, definitely send me an email and so that
 we can find a time to chat!
 
 
-# [The Berkeley Math Tournament][bmt] (2013-Present):
+# [The Berkeley Math Tournament][bmt] (2013 - 2016):
 
 **Roles**: Problem Writer, Graduate Student Advisor for the Berkeley Math Tournament
 
@@ -50,12 +50,12 @@ school version and BmMT is the middle school version of the tournament):
 - BmMT - Fall 2016 - Day of Runner, Advisor
 
 
-# [ Respect is a Part of Research][rpr] (2015 - Present):
+# [ Respect is a Part of Research][rpr] (2015 - 2016):
 
 **Roles**: Facilitator and Mentor Training Coordinator
 
 **Summary**: It is an inconvenient truth that sexual harassment has been and
-continues to be relatively common in the the physics department (and many other
+continues to be relatively common in the physics department (and many other
 academic departments). The goal of this group is to reduce sexual harassment in
 the department by running a workshop on appropriate graduate student conduct.
 
@@ -68,7 +68,7 @@ the department by running a workshop on appropriate graduate student conduct.
   refining them (e.g. improving the support for how to conduct the workshop,
   and how a facilitator can be a useful resource for the community after the
   workshop is over).
-- In fall 2016, we applied for, and recieved a grant in order to use a social
+- In fall 2016, we applied for, and received a grant in order to use a social
   norms change intervention in our department. While we are still working out
   the details of the campaign, the main idea is to offer a positive vision of
   what we want our department to be like (e.g. great physicists use their
