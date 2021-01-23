@@ -52,7 +52,7 @@
   date: April 30th, 2018
   desc: Recent successes of Binary Neural Networks can be understood based on the geometry of high-dimensional binary vectors.
   img: static/img/cifar-10_hist2d_small.png
-  link: <a href='https://arxiv.org/abs/1705.07199' target='_blank'>Paper</a> | <a href='https://github.com/alexanderganderson/bnn_vis' target='_blank'>Code</a>
+  link: <a href='https://openreview.net/forum?id=B1IDRdeCW' target='_blank'>Paper</a> | <a href='https://github.com/alexanderganderson/bnn_vis' target='_blank'>Code</a>
 
 - type: Conference Paper
   title: Joint Source-Channel Coding with Neural Networks for Analog Data

@@ -6,7 +6,7 @@ categories: engineering
 ---
 
 {:refdef: style="text-align: center;"}
-![Relationship between Long-Term Goals and Milestones](/static/img/ml_cycle.png)
+![ML Optimization Cycle](/static/img/ml_cycle.png)
 {: refdef}
 
 Pushing the state of the art in deep learning is inherently difficult.
