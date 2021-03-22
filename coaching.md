@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Coaching
-pagetitle: Machine Learning / Software Engineering Coaching
+pagetitle: Career Coaching
 permalink: /coaching/
 ---
 
@@ -10,13 +10,59 @@ permalink: /coaching/
 </p>
 
 Working in deep learning, machine learning, or software engineering and want to take your career to the next level?
-Work with me to achieve your career goals!
+Work with me to achieve your goals!
 
-Email me at *alexander. grant. anderson @ gmail.com* (remove spaces) to schedule a free 30 min consultation.
+**Email me at *alexander. grant. anderson @ gmail.com* (remove spaces) to schedule a free 30 min consultation.**
+
+I offer two ways to engage in coaching:
+
+1. Project Plan Review / Practice Qualifying Exam
+2. Extended One-on-One Coaching
+
+# Project Plan Review / Practice Qualifying Exam
+
+In this coaching offering, you will prepare a written project plan or an oral
+presentation, and I will give you detailed and actionable feedback in one or
+more paid sessions.
+
+Strategically chosen projects are critical to the advancement of your career
+and a project plan will help you get results in a timely manner.
+One one hand, writing a plan will help you clarify your thinking and identify promising directions.
+On the other hand, a detailed plan empowers peers and mentors to give you personalized advice.
+
+In an initial consultation, we will discuss what you should prepare so that I
+can give you the best possible advice. In a subsequent session, I will
+review your work and provide detailed feedback. These review
+sessions can be repeated in order to fine-tune your proposal. To get a general
+idea of what this might look like, consider the following questions for
+industry and academic proposals.
+
+In the case of an *industry* proposal, your plan may discuss the
+following:
+- The current status of your project area and the current problems.
+- Why your project is most important thing that you can be doing within the scope of your job.
+- The revenue impact to the business / the reduction of internal costs.
+- The different design/architectural decisions and why is your approach the best one.
+- How this project will help you build your case for promotion.
+- The potential risks of the project failing and how can you mitigate them.
+
+In the case of an *academic research* proposal, the plan may discuss the following:
+- The potential for the project to advance understanding within its
+  field and the benefits to society.
+- A summary of the existing work on the subject and its limitations.
+- A well-reasoned research plan, outlining different alternatives, and why your
+  approach is the best one.
+- Your current progress.
+- The likelihood that other researchers will build upon your work
+  assuming that it is successful.
+- The way in which this this project fits within a long-term academic career trajectory.
 
 <!-- ![GitHub Logo](/static/img/face_small.jpg | width=100) -->
 
-**Career Booster Plan (Weekly Activities + 12 Sessions)**
+
+
+
+# One-on-One Coaching
 - A free initial discussion to brainstorm goals and areas of improvement
 - Develop a weekly action plan to achieve a career goal that is meaningful to
   you
@@ -45,7 +91,9 @@ Aims of the initial consultation and the first few sessions:
 Since a consistent commitment is necessary to achieve the best results, expect to meet weekly for
 at least 12 weeks once a clear action plan has been created.
 
-**About Me**
+
+
+# About Me
 
 When you look for a mentor, you want to look for three things. First,
 somebody who has accomplished things that you want to accomplish. Second,
