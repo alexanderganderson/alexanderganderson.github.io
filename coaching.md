@@ -9,24 +9,46 @@ permalink: /coaching/
 <img src="/static/img/face_small.jpg" alt="alt text" width="300" height="300">
 </p>
 
-Working in deep learning, machine learning, or software engineering and want to take your career to the next level?
-Work with me to achieve your goals!
+Want to take your career to the next level?  You have come to the right place!  I offer three ways to help you achieve your goals:
+1. *The Essentials*: Career Development Workshops
+2. Project Plan Review / Practice Qualifying Exam  (deep learning, machine learning, software engineering)
+3. Extended One-on-One Coaching
 
-**Email me at *alexander. grant. anderson @ gmail.com* (remove spaces) to schedule a free 30 min consultation.**
 
-I offer two ways to engage in coaching:
+**How I can best help you? Email me at *alexander. grant. anderson @ gmail.com* (remove spaces) to schedule a free 30 min consultation.**
 
-1. Project Plan Review / Practice Qualifying Exam
-2. Extended One-on-One Coaching
+# **Career Development Workshops**
 
-# Project Plan Review / Practice Qualifying Exam
+In this coaching offering, you will get access to the essential principles that
+got me where I am today.  Not only will we discuss the obstacles
+that people typically encounter when applying these ideas, we will work together to figure
+out how you can practically apply these principles to your own life.
+
+Workshop topics:
+- Extreme Productivity in Less Than 20 Hours a Week: The 5 by 5 by 45 Method
+- Overcoming Stagnation and Achieving Excellence: Identify, Optimize, and Execute Your Critical Loop
+- Stress-Free Collaboration: Build Trust and Overcome Workplace Conflict
+- Practical Advice for Building Confidence at Work
+- Focus: Work Less and Maximize Your Impact by Choosing the Best Projects
+
+These one-hour workshops will have the following structure:
+1. Presentation on the core ideas with real-life examples
+2. Writing prompts for you to reflect on how these ideas can apply to you.
+3. Discussion of the prompts (one-on-one advice or group discussion)
+4. (Optional) Free-form discussion on whatever challenges you are currently having at work.
+
+Email me to set up a time!  If you have a like-minded friend who is also interested,
+I offer discounts to groups.
+
+
+# **Project Plan Review / Practice Qualifying Exam**
 
 In this coaching offering, you will prepare a written project plan or an oral
 presentation, and I will give you detailed and actionable feedback in one or
 more paid sessions.
 
 Strategically chosen projects are critical to the advancement of your career
-and a project plan will help you get results in a timely manner.
+and a project plan will help you deliver high-impact results in a timely manner.
 One one hand, writing a plan will help you clarify your thinking and identify promising directions.
 On the other hand, a detailed plan empowers peers and mentors to give you personalized advice.
 
@@ -57,12 +79,9 @@ In the case of an *academic research* proposal, the plan may discuss the followi
   assuming that it is successful.
 - The way in which this this project fits within a long-term academic career trajectory.
 
-<!-- ![GitHub Logo](/static/img/face_small.jpg | width=100) -->
+Email me to set up a free consultation!
 
-
-
-
-# One-on-One Coaching
+# **One-on-One Coaching**
 - A free initial discussion to brainstorm goals and areas of improvement
 - Develop a weekly action plan to achieve a career goal that is meaningful to
   you
@@ -93,7 +112,7 @@ at least 12 weeks once a clear action plan has been created.
 
 
 
-# About Me
+# **About Me**
 
 When you look for a mentor, you want to look for three things. First,
 somebody who has accomplished things that you want to accomplish. Second,
