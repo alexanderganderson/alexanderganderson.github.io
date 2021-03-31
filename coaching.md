@@ -9,13 +9,22 @@ permalink: /coaching/
 <img src="/static/img/face_small.jpg" alt="alt text" width="300" height="300">
 </p>
 
-Want to take your career to the next level?  You have come to the right place!  I offer three ways to help you achieve your goals:
-1. *The Essentials*: Career Development Workshops
-2. Project Plan Review / Practice Qualifying Exam  (deep learning, machine learning, software engineering)
-3. Extended One-on-One Coaching
+Want to take your career to the next level?  You have come to the right place!  I offer four ways to help you achieve your goals:
+1. Weekly Office Hours
+2. *The Essentials*: Career Development Workshops
+3. Project Plan Review / Practice Qualifying Exam  (deep learning, machine learning, software engineering)
+4. Extended One-on-One Coaching
 
 
 **How I can best help you? Email me at *alexander. grant. anderson @ gmail.com* (remove spaces) to schedule a free 30 min consultation.**
+
+
+# **Weekly Office Hours**
+
+Grab dinner at chat!
+Unstructured time to discuss whatever you want in terms of your career growth
+and general self-improvement. Tuesdays from 6-7 pm PST. Email
+me for the zoom link. Let me know in advance if you plan to come!
 
 # **Career Development Workshops**
 
