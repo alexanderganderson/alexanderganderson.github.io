@@ -23,7 +23,7 @@ Want to take your career to the next level?  You have come to the right place!  
 
 Grab dinner at chat!
 Unstructured time to discuss whatever you want in terms of your career growth
-and general self-improvement. Tuesdays from 6-7 pm PST. Email
+and general self-improvement. Mondays from 6-7 pm PST. Email
 me for the zoom link. Let me know in advance if you plan to come!
 
 # **Career Development Workshops**
