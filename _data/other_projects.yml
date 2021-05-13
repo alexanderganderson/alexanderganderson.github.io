@@ -1,5 +1,11 @@
-
-
+- type: Conference Paper
+  title: 'Learned Video Compression'
+  authors: Oren Rippel, Sanjay Nair, Carissa Lew, Steve Branson, Alexander G. Anderson, Lubomir Bourdev
+  location: International Conference on Computer Vision (ICCV)
+  date: October 27, 2019
+  desc: End-to-end learned model for low-latency video compression is shown to outperform the standards.
+  img: static/img/p_compression.png
+  link: <a href=http://openaccess.thecvf.com/content_ICCV_2019/papers/Rippel_Learned_Video_Compression_ICCV_2019_paper.pdf target='_blank'>Paper</a>
 
 - type: Conference Poster
   title: 'The Hyperdimensional Stack Machine: Robust Computing with Distributed Representations'

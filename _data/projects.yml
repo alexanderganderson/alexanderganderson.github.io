@@ -1,3 +1,13 @@
+- type: Technical Report
+  title: "ELF-VC: Efficient Learned Flexible-Rate Video Coding"
+  authors: "Oren Rippel*, Alexander G Anderson*, Kedar Tatwawadi, Sanjay Nair, Craig Lytle, Lubomir Bourdev (*Equal Contribution)"
+  location: WaveOne
+  date: April 2021
+  desc: First learned video compression model to outperform the standards on PSNR, MS-SSIM, and VMAF while decoding close to real time and supporting a wide range of the RD curve with a shared set of parameters.
+  img: static/img/multi-rate_thumbnail.png
+  link: <a href=https://arxiv.org/pdf/2104.14335.pdf target='_blank'>Paper</a> | <a href=https://www.wave.one/elf target='_blank'>Project Page</a>
+
+
 - type: Journal Article
   title: High-Acuity Vision from Retinal Image Motion
   authors: Alexander G. Anderson, Kavitha Ratnam, Austin Roorda, Bruno Olshausen
@@ -7,16 +17,6 @@
       improve high-acuity vision by averaging over retinal inhomogeneities.
   img: static/img/retina_model.png
   link: <a href=https://jov.arvojournals.org/article.aspx?articleid=2770552 target='_blank'>Paper</a>
-
-- type: Conference Paper
-  title: 'Learned Video Compression'
-  authors: Oren Rippel, Sanjay Nair, Carissa Lew, Steve Branson, Alexander G. Anderson, Lubomir Bourdev
-  location: International Conference on Computer Vision (ICCV)
-  date: Oct. 27, 2019
-  desc: End-to-end learned model for low-latency video compression is shown to outperform the standards.
-  img: static/img/p_compression.png
-  link: <a href=http://openaccess.thecvf.com/content_ICCV_2019/papers/Rippel_Learned_Video_Compression_ICCV_2019_paper.pdf target='_blank'>Paper</a>
-
 
 # - type: Conference Poster
 #   title: 'The Hyperdimensional Stack Machine: Robust Computing with Distributed Representations'
@@ -64,26 +64,6 @@
   img: static/img/autoencoder.png
   link: <a href=https://ieeexplore.ieee.org/document/8416587/ target='_blank'>Paper</a>
   # link: Coming soon!
-
-# - type: Poster Presentation
-#   title: The High Dimensional Geometry of Binary Neural Networks
-#   authors: Alexander G. Anderson, Cory P. Berg
-#   location: International Conference on Learning Representations (ICLR) Workshop Track
-#   date: April 24th-26th, 2017
-#   desc: Due to the high dimensional geometry of binary vectors, continuous feature vectors can be well-approximated by binary vectors.
-#       This gives a theoretical foundation for the success of the Courbariaux, Hubara, et al. method of training neural networks with binary weights and activations.
-#       The theory is also validated in such networks.
-#   img: static/img/bnn_fig.png
-#   link: <a href='https://openreview.net/forum?id=SkvQFOmtg' target='_blank'>Paper and Review</a>
-
-# - type: Conference Proceedings
-#   title: A Neural Model of High Acuity Vision in the Presence of Fixational Eye Movements
-#   authors: Alexander G. Anderson, Kavitha Ratnam, Austin Roorda, Bruno Olshausen
-#   location: Asilomar Conference on Signals, Systems, and Computers
-#   date: Nov 2016
-#   desc: Model corroborates psychophysical results on benefits of motion for high-acuity vision.
-#   img: static/img/motion_benefit.png
-#   link: <a href='http://ieeexplore.ieee.org/abstract/document/7869110/' target='_blank'>Paper</a>
 
 # - type: Journal Article
 #   title: Excess of mutational jackpot events in growing populations due to gene surfing
