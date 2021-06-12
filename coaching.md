@@ -11,7 +11,7 @@ permalink: /coaching/
 
 Want to take your career to the next level?  You have come to the right place!  I offer four ways to help you achieve your goals:
 1. Weekly Office Hours
-2. *The Essentials*: Career Development Workshops
+2. Practice Interview Loop (ML Research / ML Engineer / Software Engineer).
 3. Project Plan Review / Practice Qualifying Exam  (deep learning, machine learning, software engineering)
 4. Extended One-on-One Coaching
 
@@ -21,38 +21,47 @@ Want to take your career to the next level?  You have come to the right place!  
 
 # **Weekly Office Hours**
 
-Grab dinner at chat!
+Grab dinner and chat!
 Unstructured time to discuss whatever you want in terms of your career growth
 and general self-improvement. Mondays from 6-7 pm PST. Email
 me for the zoom link. Let me know in advance if you plan to come!
 
-# **Career Development Workshops**
+# **Practice Interview Loop**
 
-In this coaching offering, you will get access to the essential principles that
-got me where I am today.  Not only will we discuss the obstacles
-that people typically encounter when applying these ideas, we will work together to figure
-out how you can practically apply these principles to your own life.
+If you've ever been repeatedly been rejected after interviewing, you know how frustrating it is to not only
+get those rejections but to not know *why* you were rejected in the first place.
+The fact of the matter is that companies have no
+incentive to be honest with you about where you stand. Alternatively, do you feel
+unprepared for the high-stakes interviews that you are about to do and want to come into your
+interviews with confidence?
 
-Workshop topics:
-- Extreme Productivity in Less Than 20 Hours a Week: The 5 by 5 by 45 Method
-- Overcoming Stagnation and Achieving Excellence: Identify, Optimize, and Execute Your Critical Loop
-- Stress-Free Collaboration: Build Trust and Overcome Workplace Conflict
-- Practical Advice for Building Confidence at Work
-- Focus: Work Less and Maximize Your Impact by Choosing the Best Projects
+Thats where I come in.
 
-These one-hour workshops will have the following structure:
-1. Presentation on the core ideas with real-life examples
-2. Writing prompts for you to reflect on how these ideas can apply to you.
-3. Discussion of the prompts (one-on-one advice or group discussion)
-4. (Optional) Free-form discussion on whatever challenges you are currently having at work.
+As an experienced engineer and mentor who is 100% on your side, I will give you honest, actionable feedback about your
+interview skills so that you can come into the interview process with clarity and confidence.
 
-Email me to set up a time!  If you have a like-minded friend who is also interested,
-I offer discounts to groups.
+I will interview you for a hypothetical job at a top tech company in deep learning research,
+machine learning engineering or software engineering.
+I have successfully interviewed at large companies like Facebook and Google and a number of
+startups in the bay area.
+I regularly conduct similar interviews for these roles at my current company where we have the same
+high standards. A typical interview loop will include some of the following components (depending your target role
+and what you want to practice):
+- Coding interview (algorithms and data structures)
+- Machine Learning Interview (math and machine learning fundamentals)
+- Past Work Presentation / Resume Review (describe previous research or projects with questions)
+- Culture Fit Interview (discussion to understand your work style, values, motivation, and so on)
+
+Unlike a normal interview, I'll give you detailed feedback on what you did well and what you can
+do to improve. Additionally, I will give you a sense of where you stand relative to other applicants at your level.
+
+
+Email me to schedule a consultation!
 
 
 # **Project Plan Review / Practice Qualifying Exam**
 
-In this coaching offering, you will prepare a written project plan or an oral
+You will prepare a written project plan or an oral
 presentation, and I will give you detailed and actionable feedback in one or
 more paid sessions.
 
