@@ -44,7 +44,7 @@
   date: May 2018
   desc: State of the art eye movement prediction using RNNs, including a new architecture for dealing with noisy data.
   img: static/img/gaze_pred.png
-  link: <a href=https://digitalassets.lib.berkeley.edu/etd/ucb/text/Anderson_berkeley_29E_17986.pdf target='_blank'>Paper (Ch 3.)</a> (If the link breaks, search Alexander G Anderson Thesis Berkeley).
+  link: <a href= https://escholarship.org/uc/item/0mc0t7pp target='_blank'>Paper (Ch 3.)</a> (If the link breaks, search Alexander G Anderson Thesis Berkeley).
 
 - type: Conference Paper
   title: The High Dimensional Geometry of Binary Neural Networks
