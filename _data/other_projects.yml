@@ -1,4 +1,14 @@
 - type: Conference Paper
+  title: 'An Interactive Annotation Tool for Perceptual Video Compression'
+  authors: Evgenya Pergament, Pulkit Tandon, Kedar Tatwawadi, Oren Rippel, Lubomir Bourdev, Bruno Olshausen, Tsachy Weissman, Sachin Katti, Alexander G. Anderson
+  location:  International Conference on Quality of Multimedia Experience (QoMEX)
+  date: September 6, 2022
+  desc: Annotation tool to improve perceptual quality of h264 compressed videos by brushing areas that are more important and encoding with two pass target bitrate encoding.
+  img: static/img/importance_map.png
+  link: <a href=https://arxiv.org/abs/2205.03969 target='_blank'>Paper</a>
+
+
+- type: Conference Paper
   title: 'Learned Video Compression'
   authors: Oren Rippel, Sanjay Nair, Carissa Lew, Steve Branson, Alexander G. Anderson, Lubomir Bourdev
   location: International Conference on Computer Vision (ICCV)
